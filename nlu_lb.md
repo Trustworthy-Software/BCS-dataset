@@ -1,0 +1,1061 @@
+﻿## intent:affirm
+- tatsächlech
+- richteg
+- dat kléngt gutt
+- Ja
+- ja wann ech gelift
+- natierlech
+- ja
+- jo
+- jo wann ech gelift
+- jo plz
+- Sécher
+- Ok
+- séiss
+- cool,
+- Jo...
+- Dat stëmmt
+- ech stëmmen zou
+- Affirmativ
+- Dat stëmmt
+- Dat ass richteg
+- Dir hutt et verstanen
+- Ech sinn averstanen
+- Dat ass genau richteg!
+- Alles ass richteg
+- Richteg
+- An der Rei
+- Okay
+
+## intent:ask_transfer_charge
+- Wäert ech fir Iwwerweisunge vu Sue berechent ginn
+- kaschten Transferten eppes?
+- gëtt et eng Iwwerweisungsgebühr?
+- Gëtt et eng Charge
+- kréien ech fir eng Transaktioun eng Rechnung?
+- kaschten Xferen eppes?
+- ass do eng Iwwerweisungsgebühr
+- ass et eng Xfer Tax
+- wéi vill ass den Transfert
+- Wéi vill sinn d'Transfertgebühren
+- Wat sinn ech fir en Transfer schëlleg?
+- Kaschten Transfere eppes
+- Wéi vill ass eng Iwwerweisung?
+- Muss ech fir eng Iwwerweisung bezuelen?
+- Sinn Iwwerweisunge gratis?
+- Sinn Transfere gratis?
+- Kann ech en Iwwerweisung gratis maachen?
+- Wéi vill muss ech fir eng Iwwerweisung bezuelen?
+- Sinn Transfere gratis oder muss ech eng Tax bezuelen?
+- Wat sinn d'Käschte fir Bankiwwerweisungen ze maachen?
+- Gëtt et eng Tax fir Transferten am Land?
+- Wéi vill ass d'international Transfergebür, wann ech glift?
+- Hutt Dir eng Tax fir international Bankiwwerweisungen?
+- Ech brauch méi Informatiounen iwwer Fraisen fir Bankiwerweisungen.
+- Ech wëll méi iwwer Är Iwwerweisungsgebüre wëssen
+- Ech géif gäre wëssen ob Transfere eppes kaschten, wann ech gelift.
+- Ginn et zousätzlech Käschten wann ech en Transfert an en anert Land maachen
+- Ech si besuergt iwwer zousätzlech Fraisen wann ech een bezuelen.
+- Sinn international Transfere gratis?
+- Wéi vill fir en Transfer a Frankräich?
+- Wat kascht eng Iwwerweisung an Amerika a Fraisen?
+
+## intent:check_balance
+- Wéi vill Sue sinn op mengem Kont?
+- wat ass mäi Bilan?
+- wat ass mäin aktuelle Bilan?
+- Wat bleift op deem Kont?
+- Wéi vill hunn ech op deem Kont?
+- Wat ass d'Saldo op deem Kont?
+- Wéi vill Sue bleiwen op dësem Kont?
+- wat ass mäi Kontosaldo
+- wat ass mäi Kontosaldo?
+- wat ass mäi Kontostand
+- wat ass mäi Kontostand?
+- Wat ass mäi [Kreditkaarte](account_type) -kontostand
+- Wat ass méng [Kredit](account_type) -bilanz
+- Wéi vill Sue schëllegen ech op meng [Kreditkaarten](account_type)
+- Weist mir mäi [Kreditkaarte](account_type) -bilan
+- Wéi eng [Kredittkonten](account_type) hunn ech
+- Weist mir meng [Kreditkonten](account_type)
+- Wat ass de Saldo op mengem [Kreditkonto](account_type)
+- Wat ass mäi [Kreditkonto](account_type) -guthaben?
+- Wat ass mäi [credit all](credit_card) Bilan?
+- Wat ass mäi [Emblem](credit_card) -bilan
+- Wat ass de Saldo um [credit all](credit_card) Kont
+- Weist mir mäin [Iron Bank](credit_card) -bilan
+- Wat ass mäi [Justice Bank](credit_card) Bilan
+- Wat ass de Bilan um [Justice Bank](credit_card) -konto
+- wat ass meng [Emblm](credit_card) [Kreditkaart](account_type)?
+- wat ass mäi [Kreditkaarte](account_type) -bilan
+- wat ass mäi [Kreditkaarte](account_type) -kontostand?
+- Wat ass mäi [emblem](credit_card) -kontostand?
+- wat ass meng [Kreditkaarte](account_type) -solde
+- Wat ass mäin [emblem](credit_card) -solde.
+- wat ass mäi [emblm](credit_card) -solde?
+- wat ass mäi [embelm](credit_card) Kaartebilan?
+- wat ass mäi Bilan op menger [emblm](credit_card)?
+- Wéi vill Suen hunn ech a leschter Zäit ausginn
+- Ech sollt als éischt meng [Kreditkaart](account_type) kontrolléieren
+- kuckt emol als éischt meng [Kreditkaart](account_type)
+- Kënnt Dir mir mäi Kontosaldo soen?
+- Moien, ech géif gären wëssen wéi vill Suen a vill Suen a mengem Kont sinn
+- Salut, wat ass mäi Kontostand, wann ech glift
+- sou .... wat ass mäi Bilan?
+- wat ass mäi [aktuelle Solde](payment_amount)
+- Wat ass mäi Solde?
+- Wéi vill Suen hunn ech?
+- Jo, ech hu Kaffi gäeren. Awer wéi vill Suen hunn ech?
+- Jo, ech weess. Well et sou schéin ass: Wéi vill Suen hunn ech?
+- Loosst mech mäi Kontostand gesinn, wann ech glift.
+- Ech wëll mäi Kontosaldo wëssen
+- Kënnt Dir mäin aktuellt Banksaldo fir mech kontrolléieren, wann ech glift?
+- Wéi vill Suen hunn ech op mengem [Chèque-Kont](account_type)?
+- Wéi vill hunn ech op mengem [Spuerbuch](account_type)?
+- Kuckt w.e.g. de Saldo op mengem Kont mat der Nummer [FR8817569000701797957377P09](iban_number)
+- Wat hunn ech um Kont [FI8971122587147425](iban_number) iwwreg
+- Solde fir mäi [Spuerbuch](account_type)
+- Ech sollt meng finanziell Situatioun elo kontrolléieren
+- Wat ass meng aktuell finanziell Situatioun?
+- Wat bleift op mengem Haaptkonto?
+- Wat hunn ech op mengem [Spuerbuch](account_type)?
+- Bleift nach eppes op mengem Bankkonto?
+- Hunn ech nach Suen iwwreg?
+
+## intent:check_earnings
+- Wéi vill Sue sinn de leschte Mount op mäi Kont gaang?
+- Wéi vill Suen hunn ech d'lescht Joer verdéngt?
+- Wat hunn ech de leschte Mount verdéngt?
+- Wéi vill hunn ech de leschte Mount verdéngt?
+- Wéi vill Suen hunn ech d'lescht Woch krut?
+- wéi vill gouf de leschte Mount op mäi Kont deposéiert?
+- wéi vill gouf an de leschten zwou Wochen op mäi Kont deposéiert?
+- kontrolléier Dépôten fir d'lescht Woch
+- total Dépôten iwwer d'lescht Joer
+- wéi vill gouf am Januar deposéiert
+- wéi vill Suen hunn ech verdéngt?
+- wat hunn ech verdéngt?
+- Wéi vill hunn ech verdéngt?
+- Wat ass mäin Nettogewënn dëse Mount?
+- Hunn ech de leschte Mount Sue kritt?
+- Wéi gesait mäi Gewënn fir 2019 aus?
+- Wéi vill Suen hunn ech déi lescht 2 Méint verdéngt?
+- Hunn ech dëse Mount Sue gewonnen oder verluer?
+- Ech wéilt mäi Gewënn iwwerpréiwen, wann ech glift.
+- Gitt mir w.e.g. en Iwwerbléck iwwer mai rezent Akommes.
+- Lëscht main Akommes fir Januar 2020 op
+- Ech muss meng monetär Gewënn fir d'lescht Woch wëssen
+- Akommes fir déi lescht 2 Wochen
+- Hat ech dëse Mount eppes verdéngt?
+- Ech wëll meng aktuell Akommes vun dësem Mount gesinn
+- Ech sollt kucken wat ech dëse Mount gewonnen hunn
+- Hunn ech Sue verluer par rapport zum leschte Mount?
+- Wéi vill hunn ech verdéngt par rapport zu de leschte Méint?
+- Wat ass mäin Iwwerschoss vum leschte Mount?
+- Wat ass mäi monetäre Gewënn vum Februar?
+- Hunn ech e puer Sue gespuert dëse Mount?
+- Kuckt w.e.g. mäi Gewënn op mengem [Compte courant](account_type)
+- Loosst mech kucken wat ech verdéngt hunn.
+- Kontrolléiert de Cashflow op mengem Haaptkonto.
+- hunn ech et fäerdeg bruecht dëse Mount Suen ze spueren?
+- Wat hunn ech déi lescht dräi Méint finanziell geleescht?
+
+## intent:deny
+- net wierklech
+- Nee
+- Ech mengen net
+- ni
+- op kee Fall
+- nee
+- Nee Merci
+- keng Ahnung
+- Näischt!
+- t ass net schlëmm
+- Nee Merci
+- Maacht et net
+- Maacht et net, wann ech glift
+- Et ass okay, ech hunn meng Meenung geännert
+- Ech hu meng Meenung geännert
+- Ech brauch et net méi
+- Guer net
+- dat war falsch
+- Dir hutt dat falsch verstanen
+- dat wuer falsch
+- Dir hutt e Feeler gemaach
+- dat ass komplett falsch
+- Quatsch!
+- Natierlech net!
+- Dat ass net wouer
+- Ech mengen Dir hutt e Feeler gemaach
+- Ech mengen dat ass net richteg
+
+## intent:goodbye
+- bis herno
+- Äddi!
+- ech si fäerdeg
+- stop
+- ophalen
+- äddi
+- Adios
+- BYEE
+- ÄDDI
+- Villmols Merci. Gesinn Iech eng aner Kéier
+- Äddi
+- Bis eng aner Kéier
+- Bis méi spéit
+- Bis déi nächste Kéier
+- Et war flott mat Iech ze schwätzen
+- Schéinen Dag
+- Prost
+- Bis déi nächste Kéier
+- Bis zu eisem nächsten Treffen
+- Bis mir eis erëm gesinn
+- Ech gesinn dech op der anerer Säit
+- bis demnächst
+- Hoffe mir gesinn eis geschwënn!
+
+## intent:greet
+- Gudde Moien
+- Salut
+- Moien
+- hey
+- Gudden Owend
+- Hallo
+- Hey RASA!
+- Hallo?
+- Hey Sara!
+- HEI
+- moien bass du nach ëmmer do
+- Hallo
+- SALUT
+- Hey
+- Salut.
+- Salut!
+- moien
+- Moien.
+- Hallo.
+- moien et ass d'Ella
+- Schéi Gréiss
+- Schéin dech ze gesinn
+- Wéi geet et?
+- gudden Nomëtteg
+- Howdy do
+- Hoy do
+- Gréiss
+- Freet mech dech kennenzeléieren
+
+## intent:pay_cc
+- Ech wéilt de [Mindestbilan](payment_amount) op meng [embelm](credit_card) kaart bezuelen
+- Ech wëll meng [Kreditkaart](account_type) bezuelen
+- Ech wëll meng Kaart bezuelen
+- Bezuelt meng Kaart
+- Bezuelt mäi [credit all](credit_card) Kaart
+- Ech wëll meng [Justice Bank](credit_card) -rechnung bezuelen
+- Ech wëll meng [Iron Bank](credit_card) -rechnung bezuelen
+- Bezuelt mäi [Visa](credit_card)
+- Ech wëll meng [Visa](credit_card)-Rechnung bezuelen
+- Bezuelt meng [Mastercard](credit_card)
+- Ech wëll meng [MasterCard](credit_card) Rechnung bezuelen
+- Ech wëll meng [Kreditkaarte](account_type) -rechnung bezuelen
+- Ech wëll den [aktuelle Bilan](payment_amount) op meng [Kreditkaart](account_type) bezuelen
+- kënnt Dir mir hëllefen den [aktuelle Bilan](payment_amount) op menger [Kreditkaart](account_type) ze bezuelen
+- Ech wëll mäi [Credit all](credit_card) [Kreditkaart](account_type) ofbezuelen
+- Ech wëll meng [Kreditkaart](account_type) ofbezuelen
+- Ech wëll meng [Kaart](account_type) ofbezuelen
+- Ech wëll meng [Kreditkaart](account_type) bezuelen
+- Ech wëll meng [Emblème](credit_card) [Kreditkaart](account_type) ofbezuelen
+- Ech wëll mäin [aktuelle Solde](payment_amount) op meng [Emblem](credit_card) -bank [Kreditkaart](account_type) bezuelen
+- Ech wëll mäin [aktuelle Bilan](payment_amount) op meng [Emblem](credit_card) -bank [credit_card](account_type) bezuelen
+- Ech wëll $ 500 op meng [Emblem](credit_card) [Kreditkaart](account_type) e Sonndeg bezuelen
+- Ech wëll mäin [aktuelle Bilan](payment_amount) op meng [Emblème](credit_card) [Kreditkaart](account_type) haut bezuelen
+- Ech muss meng [Emblème](credit_card) [Kreditkaart](account_type) ofbezuelen
+- Plangt w.e.g. eng Bezuelung u meng Kreditkaart fir den 12. Abrëll
+- Kann ech eng Bezuelung op meng Kreditkaart fir muer plangen?
+- Bezuelt mäi [Mindestbilan](payment_amount)
+- Loosst eis déi [Kreditkaarte](account_type) rechnung bezuelen 
+- Ech wéilt och meng [Visa](credit_card) -Rechnung bezuelen
+- Bezuelt meng [Kreditkaart](account_type) of, w.e.g.
+- Ech mengen et ass. Well et sou vill ass, loosst eis mäi [Kredit](account_type) ofbezuelen
+- Ech wëll $1200 vu menger [Kreditkaarte](account_type) -rechnung bezuelen.
+- Bezuelt w.e.g. meng Kreditkaart mat der Nummer [4473 2221 1843 1393](credit_card_number)
+- Ech soll meng [Master Card](credit_card) bezuelen 
+- Maacht eng Bezuelung u mäi [VISA](credit_card) [8885991010391011](credit_card_number)
+
+## intent:search_transactions
+- wéi vill hunn ech dës Woch bei [Target](vendor_name) ausginn?
+- wat sinn meng typesch Ausgaben bei [Amazon](vendor_name)?
+- Ech wëll main Ausgabeverlaf kontrolléieren
+- wéi vill hunn ech d'lescht Woch bei [Starbucks](vendor_name) ausginn?
+- Ech muss main Ausgabeverlaf kontrolléieren
+- Ech wëll meng Ausgabe kontrolléieren
+- Ech wëll main Ausgabeverlaf bei [starbucks](vendor_name) kontrolléieren
+- Ech wëll main Ausgabeverlaf kontrolléieren
+- Ech wëll main Transaktiounsverlaf gesinn
+- Ech wëll meng vergaang Transaktioune duerchsichen
+- kann ech main Transaktiounsverlaf duerchsichen
+- kann ech vergaangen Transaktioune kucken
+- Ech wëll meng Transaktioune mat [Amazon](vendor_name) duerchsichen
+- kann ech meng Transaktioune mat [Target](vendor_name) gesinn
+- wéi vill hunn ech de leschte Mount bei [Starbucks](vendor_name) ausginn?
+- wat hunn ech de leschte Mount ausginn?
+- Wéi vill hunn ech de leschte Mount ausginn?
+- Wat hunn ech de leschte Mount bei [Legoland](vendor_name) ausginn?
+- Wat hunn ech d'lescht Joer bei [Legoland](vendor_name) ausginn?
+- wéi vill hunn ech d'lescht Joer bei [Starbucks](vendor_name) ausginn
+- Jo! Wéi vill hunn ech de leschte Mount bei [Starbucks](vendor_name) ausginn?
+- Wéi vill hunn ech de leschte Mount beim Burger King ausginn?
+- Op wéi enge Plazen hunn ech Suen ausginn?
+- Gitt mir en Iwwerbléck vu menge rezenten Transaktiounen
+- Lëscht meng Transaktioune vum leschte Mount op, wann ech glift
+- Lëscht all Transaktioune fir mäi [Compte courant](account_type)
+- Ech muss meng lescht Transaktioune kontrolléieren
+- Gitt mir eng Lëscht mat all menge Transaktioune vun dësem Joer.
+- Kann ech main Transaktiounsverlaf gesinn, wann ech glift?
+- Weist meng rezent Transaktiounen.
+- Ech wëll all Transaktioune fir de leschte Mount gesinn
+- Verlaf vun den Transaktiounen
+- Vergaangen Transaktioune weisen
+- Lëscht all meng vergaangen Iwwerweisungen, wann ech gelift
+- Loosst mech kucken wat ech de leschte Mount verbruecht hunn
+- Ech sollt meng Ausgabegeschicht sou bal wéi méiglech kontrolléieren
+- Sicht all Transaktioune vum Kont IBAN [FO4789314464586943](iban_number)
+- Kënnt Dir meng Ausgabegeschicht vun [CZ6350511354464533953564](iban_number) weisen
+- Ech wëll meng rezent Ausgaben iwwerpréiwen
+- Ech muss meng Ausgaben op mengem [VISA](credit_card) gesinn 
+- Gitt mir mäin Transaktiounsverlaf
+- Weist meng Ausgaben op menger [Master Card](credit_card) mat der Nummer [5502922455327890](credit_card_number)
+- Wéi vill Suen hunn ech am Juni mat menger Kreditkaart ausginn?
+- Kontrolléiert main Transaktiounsverlaf fir all meng Kaarten
+- Weist main Transaktiounshistorique fir mäin Haaptbankkonto
+
+## intent:thankyou
+- merci Äddi
+- okay merci Äddi
+- merci villmools, Äddi
+- ähm okay merci Äddi
+- Merci
+- an dat ass alles, merci an Äddi
+- okay merci
+- Merci
+- merci Äddi
+- merci an Äddi
+- Merci!
+- Villmols merci
+- Villmools Merci
+- Ech soen Iech Merci
+- Ech schätzen et
+- Ech appréciéieren Är Hëllef
+- Merci fir Är Hëllef
+- Villmools merci fir Är Hëllef
+- Schätzen et ganz vill
+- Ech weess net wat ouni Iech ze maachen
+- Ech wëll Iech fir d'Hëllef Merci soen
+- dat war fein vun dir
+- ech schätzen d'Hëllef immens
+- Ech sinn dankbar fir Är Hëllef
+- Ech sinn dankbar fir Äer Hëllef
+- Merci fir Äre Service
+- Ech appréciéieren Äre Service wierklech
+- Gudde Bot
+
+## intent:transfer_money
+- Ech wëll den John bezuelen
+- Ech wëll $ 100 un de Bob iwwerweisen
+- kann ech Suen un d'Sally iwwerweisen
+- Ech wëll Suen iwwerweisen
+- Ech wëll een bezuelen
+- kann ech engem Sue bezuelen
+- Ech muss engem Frënd Suen iwwerweisen
+- kann ech Suen u meng Mamm iwwerweisen
+- Ech wëll de Bill bezuelen
+- bezuelt mäi Frënd
+- iwwerweist Suen
+- Ech wëll $ 100 un den John iwwerweisen
+- Ech wëll $ 400 un den Akela iwwerweisen
+- Ech wëll d'Paula Handy bezuelen
+- bezuelt d'Katy Parrow $ 40 wann ech gelift
+- iwwerweist 60 $ un den John Jacob
+- bezuel den Evan Oslo
+- bezuelt d'Lisa wann ech gelift
+- kann ech Suen un de Kyle Gardner iwwerweisen?
+- Bezuelt dem Karen 60 Euro
+- bezuelt dem Lisa $ 60
+- iwwerweist $ 60 un d'Sally
+- muss Suen iwwerweisen
+- Ech wëll en Transfert un d'Kelly maachen
+- Bezuelt dem Percy $ 50
+- Bezuel $50 un de Percy
+- Ok bezuelt d'Emma
+- Bezuelt d'Emma
+- Ech wëll $ 100 un d'Jane Smith iwwerweisen
+- Ech wëll $ 100 u meng Duechter iwwerweisen
+- ech wëll Suen iwwerweisen, wann ech gelift
+- ech mengen ech well Suen iwwerweisen
+- Ech muss e Frënd bezuelen.
+- iwwerweist Suen un den evan oslo
+- iwwerweist Suen fir d'sara
+- Ech muss Sue fir meng Bomi Judith iwwerweisen.
+- Ech muss mengem Frënd Pedro e puer Sue ginn
+- Maacht eng Transaktioun zu Gonschten vun dem Willie senger Hochzäit.
+- Ech wëll en Don maachen
+- Spent 200 $ fir d'Prevent Cancer Foundation ..
+- Kënnt Dir en Don a mengem Numm maachen?
+- Maacht en Don un Amnesty International
+- Schéckt 150 $ op Target, wann ech glift.
+- Maacht eng Iwwerweisung vu mengem Haaptbankkonto
+- Transaktioun vu 60 $ un de Bob
+- Ech muss elo eng Iwwerweisung maachen.
+
+## intent:check_recipients
+- Wiem kann ech Sue schécken?
+- Wie sinn meng bekannten Empfänger
+- Weist mir meng Lëscht vun den Empfänger
+- Weist d'Empfängerlëscht
+- Weist mir d'Leit denen ech ka Sue schécken
+- Wien ass e gültege Empfänger
+- ween kann ech bezuelen?
+- wiem kann ech Suen iwwerweisen?
+- wien ass a menger Empfängerlëscht?
+- wiem kann ech Suen iwwerweisen?
+- Wien ass op Ärer Lëscht?
+- wien ass a menger Lëscht vu bekannten Empfänger?
+- Kënne mir w.e.g. nei ufänken?
+- Wien ass a menger Lëscht vun den Empfänger?
+- Wiem kann ech Suen iwwerweisen?
+- Lëscht w.e.g. all meng Empfänger op.
+- Lëscht all meng aktuell Empfänger.
+- Ech wéilt meng Empfänger wëssen.
+- Ech wëll all verfügbaren Empfänger gesinn.
+- Lëscht vu menge Benficiairien
+- Ech wëll meng gespäichert Beneficiairë wëssen
+- Kann ech gesinn wiem ech Sue kann iwwerweisen?
+- gitt mir meng Beneficiairien
+- préift aktuell Beneficiairien.
+- weist meng Empfängerinformatioun, wann ech gelift.
+- wien ass a menger Lëscht vu Beneficiairien?
+- wien sinn d'Leit a menger Empfängerlëscht?
+- Ass de Bob Jungels a menger Empfängerlëscht?
+
+##intent: ask_for_atm
+- wou ass deen nooste Bankomat?
+- wou fannen ech deen nooste Bankomat?
+- ass eng Atm an der Géigend?
+- wou as den nootsten ATM?
+- Ech muss en Bankomat fannen.
+- Ech muss en Bankomat zu Braavos fannen.
+- ass e Bankomat bei mir?
+- ass e Bankomat a ménger Géigend?
+- ech muss Suen ophiewen
+- ech brauch Suen.
+- gëtt et en ATM zu Metropolis?
+- hëlleft mir en ATM ze fannen
+- ech brauch Hëllef fir en Bankomat ze fannen.
+- hëllef mir w.e.g. e Bankomat ze fannen
+- Hëlleft en ATM ze fannen.
+- fannt en ATM bei mir an der Géigend
+- fannt en ATM an der Géigend
+- Fannt e Bankomat bei mir an der Géigend.
+- fann en Bankomat
+- Ech muss e Bankomat fannen.
+- Sich e Geldautomat
+- Sich ATM
+- Duerchsich d'Emgéigend no engem Geldautomat
+- Ech géif gär Sue ophiewen
+- Fannt w.e.g. en Bankomat
+- fannt e Bankomat an der Regioun
+- Geldautomat an der Géigend sichen
+- e Bankomat fannen
+- fannt eng ATM Maschinn an der Géigend
+- Ech sichen e Geldautomat
+- Ech sichen eng ATM-Maschinn an dësem Beräich.
+- Kritt mir e Geldautomat an der Géigend
+- Ech sichen e Bankomat der Géigend
+- Kënnt Dir d'Géigend no engem Bankomat duerchsichen, wann ech glift?
+- Ech brauch elo en Iron Bank Bankomat
+- Justice Bank ATM bei mir
+- Weist w.e.g. den nächste Bankomat op der Kaart.
+- Weist mir all Bankomat an der Regioun.
+- ech muss e Bankomat fannen fir Suen opzehiewen.
+
+##intent: ask_for_bank
+- ech muss op d'Bank goen
+- gëtt et eng Bank an der Géigend?
+- ech muss eng Bank zu Braavos fannen
+- ech brauch eng Bank an der Géigend
+- hëlleft mir eng Bank ze fannen
+- noosten Bank
+- nooste Bank zu Gotham
+- wou ass eng Bank
+- wou ass eng Bank bei mir?
+- ass eng Bank bei mir?
+- ech fanne keng Bank
+- Ech muss eng Iron Bank Filial fannen
+- eng Bank an der Géigend fannen.
+- hëlleft mir eng Bank ze fannen
+- Ech muss déi nooste Bank fannen
+- Wou ass déi nächst Bank?
+- Wou kann ech eng Bank fannen?
+- Sicht no Bank an der Géigend
+- Sicht eng Bank an der Regioun
+- Ech sichen no enger noer Bank
+- Ech muss elo eng Bank fannen
+- Fannt eng Bank a mengem Beräich.
+- Kuckt no enger Bank an dësem Beräich
+- Kuckt no enger Bank no bei mir
+- Fannt eng Bank, wann ech gelift.
+- Kënnt Dir eng Bank an der Géigend sichen, wann ech glift?
+- Ech hu Probleemer eng Bank hei ze fannen.
+- nooste Bank an der Regioun
+- gett et eng Justice bank bei dëser Adress?
+- Wat ass déi noosten Iron Bank bei mir?
+- fannt eng Bank fir mech
+- maach mir e Gefalen a sicht no enger Justizbank an dësem Beräich.
+- ech ka keng emblm Bank hei ronderëm fannen.
+- Gëtt et iergendwou e Credit all?
+- Ech gesinn néierens eng Iron Bank!
+- gëtt et eng Bank an der Noperschaft?
+- Gëtt et e Credit all an dëser Strooss?
+- Ech muss elo direkt eng Ophiewung op der Bank maachen!
+- Hëlleft mir eng Embleme Bank an dësem Quartier ze fannen, merci.
+- Kënnt Dir mir déi nächst Bank op der Kaart weisen, wann ech glift?
+- Weist mir all Banken a mengem Ëmfeld
+
+##intent: schedule_appointment
+- Ech hätt gär e ​​Rendez-vous mat engem Beroder
+- Kann ech e Beroder treffen
+- Ech wëll mech op der Bank treffen
+- Ech wëll e Rendez-vous
+- arrangéiert e Rendez-vous
+- arrangéiert e Rendez-vous, wann ech gelift
+- e Rendez-vous arrangéieren
+- Rendez-vous
+- Ech wëll mat engem Beroder schwätzen
+- Kann ech e Meeting arrangéieren?
+- Ech wëll en Employé gesinn
+- Ech wëll e Rendez-vous op der Bank ausmaachen
+- ass iergendee fräi ze treffen?
+- ech brauch eng Consultatioun
+- arrangéiert eng Consultatioun, wann ech gelift.
+- Ech muss e Beroder op der Bank gesinn.
+- maacht w.e.g. e Rendez-vous fir mech aus.
+- gitt w.e.g. e Rendez-vous.
+- arrangéiert w.e.g. eng Versammlung mat engem Beroder.
+- Ech géif gär e ​​Beroder treffen
+- Kënnt Dir mir hëllefen eng Versammlung ze buchen?
+- Ech wëll e Rendez-vous reservéieren
+- Bucht w.e.g. eng Berodung sou séier wéi méiglech
+- Kann ech eng Consultatioun fir den nächsten Dënschdeg de Moien arrangéieren?
+- W.e.g. plangt eng Versammlung mat engem Beroder fir déi nächst Woch
+- Ech géif gären mat engem op der Bank schwätzen
+- Ech wëll e Bankier treffen, wann ech glift
+- Rendez-vous fir e Meeting
+- Ech muss e Rendez-vous arrangéieren
+- Ech brauch Berodung vun engem Beroder
+- Kéinte mir eng Versammlung op der Bank ufroen, wann ech gelift.
+- Ech brauch e bësse finanziell Berodung
+- Ech brauch e Rendez-vous mat engem Expert
+- Ech wéilt gär mat mengem Beroder iwwer d'Investéiere vu Suen schwätzen
+- Ech wëll en Expert treffen fir meng aktuell Optiounen ze diskutéieren
+- Ass ee verfügbar fir mech doriwwer ze consultéieren?
+- Kann ech iergendeen gesinn fir méi am Detail doriwwer ze schwätzen?
+- Ech wëll e puer Berodungen iwwer Investitioun. Wier een dofir verfügbar?
+- Ass en Expert verfügbar fir muer mat mir ze schwätzen?
+
+##intent: open_account
+- Ech wëll e Bankkonto opmaachen
+- Ech wëll e Kont opmaachen
+- maacht w.e.g. e [Kreditkonto](account_type) op
+- ech brauch en neie Kont
+- en neie Bankkonto opmaachen, wann ech glift.
+- kann ech en neie [Kreditkonto](account_type) opmaachen, wann ech glift?
+- Ech wëll en neie Bankkonto opmaachen
+- Ech muss en neie Kont opmaachen
+- neie Kont opmaachen
+- Ech wëll Client ginn
+- ech sinn en neie Client
+- kënnt Dir e Bankkonto fir mech opmaachen
+- Ech wëll e [Spuerbuch](account_type) fir meng Kanner opmaachen.
+- Maacht w.e.g. en neie Kont fir meng Duechter op.
+- Ech wëll e gemeinsame Bankkonto fir mech a meng Fra opmaachen
+- Konnt ech e [Spuerbuch](account_type) fir mech opmaachen?
+- Maacht e Kont fir mäi Jong op, wann ech glift.
+- Ech wëll e [Spuerkont](account_type) fir meng zwee Enkelkanner.
+- Maacht weg e [Kreditkonto](account_type) op
+- Ech sinn en neie Client an ech wéilt e [Compte Courant](account_type) opmaachen
+- Salut, maacht w.e.g. e Bankkonto fir mech op.
+- Ech wëll e gemeinsame Kont fir mech a meng Fra erstellen, wann ech glift.
+- Setzt e Kont fir mäi Mann an ech op.
+- Kënnt Dir e [Spuerbuch](account_type) fir mäin neigebuerene Jong opstellen?
+- Neie Kont erstellen
+- Ech géif gären e [Spuerkont](account_type) erstellen
+- Kont opmaachen
+- Ech kontaktéieren Iech well ech muss e Kont opmaachen.
+- Géift Dir mir hëllefen e [Compte Courant](account_type) opzemaachen?
+- Maacht w.e.g. en neie Kont op
+- Ech si just Papp ginn a wëll e [Spuerbuch](account_type) fir mäi Jong erstellen
+- Loosst mech e gemeinsamen [Compte Courant](account_type) fir mech a mäi Partner opstellen
+- Maacht e [Spuerbuch](account_type) fir meng Kanner op.
+- Ech wëll e [Check Account](account_type) bei Ärer Bank opstellen.
+- Ech sinn en neie Client a wëll e Bankkonto mat Iech opmaachen
+- Ech wëll mäin éischte Bankkonto opmaachen
+- Ech hu beschloss e [Spuerkonto](account_type) fir mech opzemaachen
+- Maacht e Kont a mengem Numm op, wann ech glift.
+- Maacht en neien [Compte courant](account_type)
+- Ech wëll e normale Kont
+- Wat fir e Kont recommandéiert Dir?
+- Wéi eng Bankkonten hutt Dir ugebueden?
+- Wat sinn meng Optiounen fir Konten op Ärer Bank?
+
+##intent: close_account
+- Ech wëll mäi Kont zoumaachen
+- ech brauch mäi Kont net méi.
+- Ech muss mäi Bankkonto zoumaachen
+- hëlleft mir de Kont zouzemaachen, wann ech gelift.
+- Ech wëll mäi Kont zoumaachen
+- Ech wëll de Service ofbriechen, wann ech glift
+- Ech wëll d'Servicer annuléieren.
+- ech wéilt gär fort.
+- maacht mäi Kont zou
+- Ech wéilt gäere mäi Bankkonto zoumaachen.
+- kann ech mäi [Kreditkaarte](account_type) -konto zoumaachen?
+- Ech wëll d'Bank verloossen.
+- ech brauch Är Servicer net méi.
+- Maacht mäi [Spuerkont](account_type) zou, wann ech gelift.
+- Mellt w.e.g. béid meng Konten of well ech geschwënn d'Land verloossen.
+- Ech wëll mäi [Compte courant](account_type) zoumaachen.
+- Maacht w.e.g. mäi [Spuerbuch](account_type) a mäi [Compte courant](account_type) zou .
+- Stop meng Konten.
+- Kënnt Dir mäi [Kont courant](account_type) zoumaachen?
+- [Spuerkont](account_type) zoumaachen
+- [Compte courant](account_type) zoumaachen
+- Ech brauch kee [Kreditkonto](account_type) méi.
+- Maacht weg mäi Kont IBAN [GB NWBK 8291 0391 9444 12](iban_number) zou
+- Maacht all meng Bankkonten zou. ech ginn ëlo
+- Maacht mäi Haaptkonto direkt zou.
+- Bankkonto zoumaachen
+- Hëlleft mir w.e.g. mäi [Kreditkonto](account_type) zouzemaachen
+- Ech brauch de [Spuerkont](account_type) net méi.
+- Ech muss de Kont zoumaachen, deen ech mat mengem Mann deelen.
+- Maacht mäi Bankkonto IBAN [NL73ABNA1588633721](iban_number) zou
+- IBAN [TL848537682679115548385](iban_number) zouman
+- De Kont zoumaache mat IBAN Nummer [LU00908884921211210921](iban_number)
+- Maacht mäi [Spuerkonto](account_type) zou well ech et net méi brauchen.
+- Ech hu kee Kont méi néideg
+- Mäi [Spuerkont](account_type) aussetzen
+- Ech wéilt all meng Konten zoumaachen wann ech eng nei Bank hunn
+- Maacht mäi [Spuerbuch](account_type) zou 
+- Ech brauch mäi Kont mat der Nummer [TD4645178593891361314353146](iban_number) net méi
+- Maacht w.e.g. all meng Konten zou.
+- Maacht mäi [Spuerbuch](account_type) elo op.
+- Suspendeier [BF1412283919251793469818551](iban_number)
+
+##intent:order_card
+- ech brauch eng nei Kreditkaart
+- ech wëll eng nei Kaart
+- ech wëll eng Kaart bestellen
+- ech wëll eng nei Kaart bestellen
+- ech hu meng Kreditkaart verluer
+- meng Kaart gouf geklaut
+- Meng Kreditkaart gouf geklaut an ech brauch eng nei.
+- Konnt ech eng nei Kaart kréien?
+- kann ech e [Visa](credit_card) bestellen
+- Meng [Master Card](credit_card) gouf geklaut
+- Et huet ee meng [Visa](credit_card) geklaut
+- Ech muss eng Kreditkaart bestellen
+- brauch en neie [Visa](credit_card).
+- kënnt Dir eng nei [Visa](credit_card) ausstellen, wann ech glift?
+- hëlleft mir eng nei [Master Card](credit_card) ze kréien, wann ech glift!
+- ech muss eng nei Kaart kréien.
+- géift Dir mir en neie [Visa](credit_card) schécken, wann ech glift?
+- Ech muss meng Kreditkaart blockéieren an eng nei kréien.
+- Schéckt w.e.g. eng nei Bankkaart
+- Ech brauch geschwënn en neie [Visa](credit_card).
+- Ech wëll eng [Master Card Gold](credit_card) ufroen, wann ech glift
+- Meng Kaart leeft of
+- Ech géif gär vu [Visa](credit_card) op [Master Card](credit_card) wiesselen
+- Hëlleft mir en neie [Vpay](credit_card) ze bestellen, wann ech glift!
+- Wéi kann ech eng Kreditkaart kréien?
+- Ufro fir Bankkaart
+- Bestellung fir eng [Master Card](credit_card)
+- Schéckt mir eng [Visa Classic](credit_card) Kreditkaart
+- ech wëll eng nei Bankkaart
+- bestellt en neie [Visa](credit_card) fir mech
+- Kann ech en [VPAY](credit_card) bestellen, wann ech gelift?
+- Ech hätt gär eng [Visa](credit_card) mat enger Ausgabegrenz vun 1500, wann ech gelift
+- Bestellt eng Debitkaart fir mech
+- Erstellt eng Debitkaart a mengem Numm.
+- Registréiert eng [VPAY](credit_card) Kaart fir mech
+- Registréiert eng nei [Master Card Gold](credit_card) fir mech.
+- Ech wëll eng Bankkaart fir mäin Haaptkonto bestellen.
+- Ech wëll eng Bankkaart registréiere loossen op mäi [Compte courant](account_type).
+- Wat si meng Optiounen fir eng nei Kaart ze bestellen?
+- Wéi eng Kreditkaarte bitt Dir?
+- Ech iwwerleeën d'Kaart ze wiesselen.
+- Wéi eng Kaart ass déi bescht fir meng aktuell finanziell Situatioun?
+- wéi eng Kaarte kënnt Dir mir ubidden?
+
+##intent:make_standing_order
+- Ech wëll en Ordre permanent maachen
+- Ech wéilt eng automatesch Bankiwwerweisung maachen.
+- Ech géif gären monatlech Bezuelunge maachen
+- Start en Ordre permanent.
+- ordre permanent
+- automatesch Bezuelungen erstellen
+- Ordre permanent kreéieren.
+- Ech wëll en Ordre permanent erstellen
+- Maacht w.e.g. méintlech Banktransferten.
+- Maacht monatlech Bezuelunge vu 500 Dollar u meng Mamm.
+- Ech wëll regelméisseg Bezuelunge maachen fir mäi Prêt ofzebezuelen.
+- Erstellt en Ordre permanent fir mäin Auto ze bezuelen.
+- Maacht méintlech Bezuelunge fir mäi Haus ofzebezuelen.
+- Ordre permanent fir de Loyer
+- Ech wëll monatlech Bezuelunge fir d'Chargen erstellen.
+- Erstellt en Ordre permanent op mäi [Spuerkont](account_type).
+- Ech wëll e méintlechen Transfert op mäi [Spuerkont](account_type) maachen.
+- Maacht monatlech Bezuelungen
+- méintlech Bezuelunge maachen fir mäi Prêt ofzebezuelen
+- Setzt en neien Ordre permanent op
+- Maacht w.e.g. méintlech Transfere zugonschte vun mengem Proprietär, den Här Smith.
+- Kënnt Dir mir hëllefen en Ordre permanent opzesetzen?
+- Ech wëll monatlech Acompte maachen, wann ech glift
+- Maacht Ordre permanent fir mäi Loyer a Chargen
+- Hëlleft mir en Ordre permanent fir main Zeitungsabonnement ze kreéieren
+- Ordre permanent fir Hypothéik
+- zweemol monatlecht Bezuelunge fir den Evan Oslo maachen
+- regelméisseg Bezuelungen op [GR3801426847213749953999241](iban_number) erstellen
+- Ordre permanent fir de Kont IBAN [HU67109180018431439352322896](iban_number) opstellen
+- Maacht reegelméisseg Spende fir d'SameYou Organisatioun.
+- Maacht en Ordre permanent vu mengem [compte courant](account_type) op IBAN [AT911947056937785836](iban_number)
+- Start en Ordre permanent vu mengem normale Kont
+- Maacht meintlech Bezuelungen op de folgende Kont aus: [IBAN AD0518985719167783363628](iban_number)
+
+##intent:cancel_standing_order
+- Ech wëll en Ordre permanent ofbriechen
+- weg eng regulär Bankiwwerweisung annuléieren
+- Ech muss en Ordre permanent stoppen
+- Hal op, dës monatlech Bezuelung ze maachen
+- Ech wëll monatlech Bezuelunge fir mäi Haus annuléieren
+- en Ordre permanent ofbriechen.
+- Ordre permanent ofbriechen wann ech gelift.
+- ech brauch dësen Ordre permanent net méi ze maachen.
+- Ordre permanent kënnegen
+- méintlech Bezuelungen annuléieren
+- Läscht w.e.g. mäin Ordre permanent u main Proprietär well ech dëse Mount plënneren.
+- Ordre permanent läschen.
+- Blockéiert mäin Ordre Permanent.
+- Mellt w.e.g. meng Ordre Permanten onbestëmmt of.
+- Ech muss ee vu mengen Ordre permanenten läschen.
+- Ordre Permanenten fale loossen.
+- Annuléiert d'méintlech Bezuelungen op mäi [Spuerkont](account_type).
+- Terminéiert monatlecht Acompte op mengem Prêt
+- Maacht meng aktuell Ordre permanenten zou.
+- Ech géif gären meng Ordre permanent zugonschte vum Katy suspendéieren
+- Stop déi wöchentlech Bezuelungen op IBAN [CH9089144321863955812](iban_number)
+- Ordre permanent op de Bankkonto IBAN [SE6761643362159754747358](iban_number) suspendéieren
+- Kënnegt all meng regulär Bezuelungen
+- Ech wëll all meng Ordre permanenten ophalen
+- Stop di méintlech Bezuelungen u Netflix, wann ech glift.
+- Annuléiert all meng Ordre permanenten
+- Meng Ordre permanenten zu Gonschte vun [BJ73K645365976731155988292](iban_number) suspendéieren 
+- Spenden d'Spenden u Medecins sans frontieres stoppen
+- Terminéiert d'Bezuelunge vu mengem Loyer an Utilitéite well ech geplënnert sinn.
+- Stop all reegelméisseg Bezuelungen Richtung SEAT.
+
+##intent:cancel_bank_transfer
+- Ech wëll eng Bezuelung annuléieren
+- Ech wëll dëse Virement net méi maachen
+- weg déi lescht Bankiwwerweisung annuléieren
+- ech hunn e Feeler a menger Iwwerweisung gemaach
+- stopp dës Bezuelung
+- kënnt Dir meng Transfere annuléieren?
+- do ass eppes falsch bei menger leschter Bankiwwerweisung
+- den Transfert stornéieren
+- Stopp dee leschten Transfert
+- Iwwerweisung réckgängeg maachen
+- weg d'Bezuelung stornéieren
+- Ech muss e Virement annuléieren.
+- Ech wëll eng Bankiwwerweisung stoppen.
+- Ech muss mai leschte Virement annuléieren.
+- Weg verréckelt mäi Virement.
+- Stop w.e.g. meng lescht Bankiwwerweisung.
+- Ech muss e Feeler a mengen Transfere korrigéieren.
+- Stop den Transfer, deen ech elo gemaach hunn, wann ech glift.
+- Et ass e Feeler a mengem leschte Bezueltransfer
+- Ech wëll meng lescht Iwwerweisung korrigéieren.
+- Briecht meng Iwwerweisung fir Katy of, wann ech glift
+- Suspendéiert d'Iwwerweisung fir den Empfänger [FR0630003000408291445332P39](iban_number)
+- Déi lescht Bankiwwerweisung suspendéieren
+- Ech hunn en falschen Transfert gemaach! W.e.g. annuléieren.
+- Stop d'Bezuelung fir de Bill
+- Kënnt Dir déi lescht Iwwerweisung annuléieren, wann ech glift?
+- Meng läscht Iwwerweisung gouf un déi falsch Persoun geschéckt
+- Maacht w.e.g. meng lescht Bankiwwerweisung réckgängeg
+- D'Iwwerweisung op [DE12500105174689356533](iban_number) réckgängeg maachen
+- Kënnt Dir den Transfert un d'Lisa réckgängeg maachen, wann ech glift?
+- Ech muss e Feeler a menger Bankiwwerweisung korrigéieren
+- de leschten Transfert fir elo suspendéieren.
+- den Transfert Richtung meng Mamm annuléieren
+- d'Transaktioun vun 1000 Euro temrinéieren
+- Ech muss meng leschten Iwwerweisung annuléieren wéinst engem Feeler deen ech gemaach hunn
+- Annuléiert den Don un d'Bill Gates Foundation
+- Ech hunn eng falsch Informatioun a mengem leschten Transfert gemaach.
+- Loosst mech meng Iwwerweisung korrigéieren.
+- Ech muss e Feeler a menger Bankiwwerweisung verbesseren
+- Ech hunn de falschen Empfänger a mengem Transfert gesat. W.e.g. annuléieren.
+
+##intent:increase_card_limit
+- Ech wëll meng Kaartelimit erhéijen
+- erhéicht w.e.g. d'Limit op menger [Iron Bank](credit_card) -kaart
+- Kredittkaart Limit erhéijen
+- ech muss meng Limit fir meng nächst Vakanz erhéijen
+- ech muss de Plafong op menger Kreditkaart erhéijen.
+- ännert d'Limit vu menger [Justice Bank](credit_card) -kaart erop op 1500 $.
+- Ech wëll eng méi héich Limit fir meng [Iron Bank](credit_card) Kreditkaart, wann ech glift.
+- Erhéij Limite
+- hief mäi Plafong
+- Kaartelimit erhéijen
+- W.e.g. erhéicht meng Kreditkaartelimit.
+- Maacht w.e.g. meng Kaartelimit méi héich.
+- Erhéijt d'Limit op menger [Visa](credit_card) Kaart
+- Hieft de Plafong vu mengem [Vpay](credit_card)
+- Ech wëll meng [Mastercard](credit_card) Plafong op 1000 Euro erhéijen.
+- Ech wëll d'Limit vu mengem [Vpay](credit_card) op 2000 erhéijen
+- Erhéij meng [Master Card Gold](credit_card) Limit.
+- Ech wëll eng méi héich Kreditkaartlimit.
+- W.e.g. erhéicht de [Visa](credit_card) Plafong vu 500 op 1500 Euro
+- Ech muss meng Kaartelimite fir meng nächst Vakanz erhéijen
+- Ech ginn d'nächst Woch op eng Geschäftsrees a muss meng [master card](credit_card) Limit erhéijen.
+- D'Limit op mengem [Visa](credit_card)( [4916 4538 0047 5374](credit_card_number) ) erhéijen
+- Erhéich d'Ausgabegrenz op mengem [VISA](credit_card) ( [4485202186046191823](credit_card_number) ), wann ech glift
+- Ech wëll e méi héiche Kreditkaartelimit hunn.
+- Ech hätt gär eng méi héich Ausgabegrenz op menger [Visa](credit_card).
+- d'Ausgabegrenz op Kreditkaart op 2500 erhéijen
+- Erhéich meng Ausgabegrenz
+- ech wëll méi Suen ausginn
+- meng Kreditkaartelimit ass ze niddreg
+- erhéicht d'Limit vu menger Kaart mat der Nummer [4400 0124 5531 8885](credit_card_number)
+- erhéicht d'Ausgabegrenz op [7543 7829 7239 8327](credit_card_number)
+- Ech brauch méi disposabel Suen op menge Kreditkaarten
+- Hieft d'Limit op menge béide Kaarten
+
+##intent:decrease_card_limit
+- Ech wëll meng Kreditkaart Limite erofsetzen
+- Ech muss meng Ausgaben limitéieren
+- Ech wéilt d'Limite op menger [Credit all](credit_card) Kaart erofsetzen.
+- ech muss de Plafong op meng Kaart erofsetzen.
+- Limite erofsetzen
+- Limite vun der [Justice Bank](credit_card) -kaart erofsetzen.
+- setzt w.e.g. d'Limite op menger Kaart erof.
+- änner de Kredittkaarteplafong op 500 Dollar pro Mount.
+- kënnt Dir d'Kreditkaartelimite erofsetzen?
+- géift Dir d'[Iron Bank](credit_card) Limite erofsetzen?
+- Ech wëll meng Limit erofsetzen.
+- Ech muss meng Ausgaben erofsetzen.
+- Kreditkaart Plafong erofsetzen
+- mai Kaarteplafong erofsetzen
+- Ech muss meng Ausgaben limitéieren.
+- Reduzéier w.e.g. meng Kreditkartelimit.
+- Limitéiert d'Limit op menger [Mastercard](credit_card)
+- Senk meng Limite fir [Visa](credit_card) Kaarten.
+- de Plafong op menger [VISA](credit_card) erofsetzen
+- [Vpay](credit_card) Limit erofsetzen, wann ech glift.
+- Ech muss meng Kaartengrenzen erofsetzen.
+- Senkt d'Plafongen op all menge Kaarten op 500, wann ech glift.
+- Verréngert d'Limit op menger Kaart, déi mat 4623 ophält, wann ech glift.
+- Ech muss d'Ausgabenlimit op menger [Mastercard](credit_card) erofsetzen
+- Ausgabegrenz op der Kaart [5491157073649470](credit_card_number) erofsetzen
+- Ech muss meng Ausgaben limitéieren
+- Reduzéiert d'Limit vu menger [Master Card](credit_card)
+- Senkt de Betrag deen ech op meng Kreditkaarten ausginn.
+- Ech muss meng Ausgaben vu menger Kaart iwwerwaachen.
+- Ech verschwende vill ze vill Suen
+- meng [Visa](credit_card) Limit sollt méi niddreg sinn
+- senkt d'Kaartelimite vun [6643 9992 0013 9532](credit_card_number)
+- verréngert d'Depenslimit op [7438734927328222](credit_card_number) wann ech glift.
+- Reduzéieren d'Ausgabegrenzen op all meng Kaarten
+- Ech soll meng Ausgaben erofsetzen.
+
+##intent:block_card
+- meng Kaart gouf geklaut!
+- Kënnt Dir meng [Visa](credit_card) Kaart blockéieren?
+- Mäi Portemonnaie gouf geklaut an ech muss meng Kaarte blockéieren.
+- ech hu meng Kreditkaart verluer.
+- blockéiert all meng Kreditkaarten direkt!
+- [MasterCard](credit_card) blockéieren
+- ech hu meng [Vpay](credit_card) Kaart verluer!
+- Mäi [Visa](credit_card) gouf geklaut!
+- Späert w.e.g. meng [Master Card](credit_card)!
+- et gëtt verdächteg Aktivitéiten a mengem Ausgabeverlaf
+- ech muss meng Kaart blockéieren.
+- w.e.g. meng Kreditkaart blockéieren!
+- blockéiert all meng Kaarten!
+- et huet ee meng Kreditkaart geklaut!
+- ech hu gëschter mäi Portmonni verluer an ech muss meng Kaart blockéieren.
+- ech fanne meng Kreditkaart net.
+- mäi Portemonnaie gouf geklaut
+- et huet ee mäi Portemonnaie geklaut.
+- Ech muss meng Kreditkaart annuléieren.
+- W.e.g. annuléiert meng [Master Card](credit_card)
+- Annuléiert w.e.g. meng [master card](credit_card) mat der Nummer [5490 7545 3531 8107](credit_card_number)
+- Spär all meng Kaarten, wann ech glift.
+- Kaart annuléieren: [Visa](credit_card), [4940250864739192](credit_card_number)
+- Ech muss meng Kaart blockéieren wéinst verdächtegen Aktivitéiten
+- Ech muss d'Kaart direkt blockéieren, well se geklaut gouf.
+- Blockeiert meng Kaart, wann ech gelift.
+- Suspendéiert meng Kaart déi op 5543 endet, wann ech glift.
+- Meng Kaart soll direkt ongëlteg gemaach ginn
+- Ech brauch meng [VISA](credit_card) net méi wéi ech op [Master Card](credit_card) gewiesselt hunn 
+- Kann ech meng [VISA classic](credit_card) fir e [Master Card Gold](credit_card) wiesselen, wann ech glift? Merci
+- Block [4432112287564921](credit_card_number) well se geklaut gouf
+- Ech hu mäi Portmonni verluer. Blockéiert weg meng zwou Kaarten 
+- Läscht w.e.g. meng [VISA](credit_card) Kaart vun Ärem System
+
+##intent:change_address
+- ech muss meng Adress aktualiséieren
+- meng Heem Adress änneren
+- meng Adressinformatioun aktualiséieren.
+- ech sinn viru kuerzem op eng nei Adress geplënnert
+- ech sinn d'lescht Woch geplënnert.
+- ech si geplënnert a wéilt meng Adress aktualiséieren.
+- ech muss meng Adress änneren
+- meng Rechnungsadress änneren.
+- ech hunn eng nei Adress.
+- Adress änneren
+- Maach en update vun mengen Adressinformatiounen
+- ech sinn op eng nei Plaz geplënnert
+- ech wëll meng Adress aktualiséieren
+- Ech wëll meng Adress änneren
+- ech sinn an en neit Haus geplënnert
+- ech plënneren demnächst a wëll meng Adressinformatioun aktualiséieren
+- Ech wëll Iech iwwer meng rezent Plënnerung informéieren
+- Ech informéieren Iech iwwert meng nei Adress.
+- Update Adressinformatioun
+- ech sinn an en neit Appartement geplënnert.
+- Ändert meng Heemadress, wann ech gelift.
+- Kënnt Dir meng Adressinformatioun aktualiséieren, wann ech glift?
+- Ech si viru kuerzem aus mengem alen Haus geplënnert.
+- ech hunn eng nei Adress.
+- Ech si gëschter geplënnert a muss meng Adressinfo aktualiséieren.
+- Ech plënneren geschwënn, kënnt Dir meng Heemadress änneren?
+- Adressupdate
+- Ech hunn eng nei Heemadress an ech wëll meng Profilinformatioun aktualiséieren
+- Update meng Heemadress
+- Ech muss meng Adress änneren
+- Ännert meng perséinlech Adress
+- Ech sinn elo op déi folgend Adress geplënnert
+- Ech wunnen elo op enger neier Plaz
+- Ech hunn eng nei Plaz
+- Ech sinn an eng nei Residenz geplënnert.
+- Mir si viru kuerzem geplënnert.
+
+##intent:apply_for_loan
+- Ech wéilt e Prêt ufroen.
+- Ech wëll e Prêt
+- ech brauch Sue fir en neien Auto
+- Ech wëll e Prêt ophuelen
+- Ufro fir Prêt
+- Prêt Applicatioun
+- Ech wëll e Formulaire fir e Prêt ausfëllen.
+- Demande fir e Prêt
+- ech brauch e Kredit
+- Ech wëll e Prêt ufroen.
+- Prêt ufroen
+- ech muss e grousse Kaf maachen.
+- ech muss e Prêt maachen
+- ech muss Sue léine goen
+- Kredittapplikatioun
+- Ech wëll e Kreditt ufroen
+- Ech muss en Hypothéik ophuelen
+- Ech wëll Sue vun der Bank léine goen
+- Ech wëll e Prêt fir en Haus ophuelen
+- ech brauch e Prêt fir en Haus ze kafen
+- Ech brauch eng zweet Hypothéik fir mäin Haus.
+- ech brauch finanziell Hëllef, wann ech glift.
+- Ech géif gären e Studenteprêt ufroen
+- Ech brauch e Studenteprêt
+- Ech brauch Sue fir en Auto ze kafen
+- Ech wëll en Haus kafen a muss e Prêt maachen
+- Ech muss e Prêt maachen.
+- Léint mir Sue fir eng nei Kichen
+- Ech hätt gär e Geschäft ze grënnen brauch awer Sue dofir.
+- Ech sinn an engem finanzielle Lach
+- Ech hu finanziell Problemer am Moment a muss en zweete Prêt op d'Haus huelen.
+- Ech brauch e Prêt vun 10000 $.
+- Ech hunn e puer finanziell Schwieregkeeten.
+- Ech wëll e Prêt vu 50000 $ fir en Auto huelen, deen ech plangen ze kafen
+- Ech brauch finanziell Hëllef
+- Ech hu monetär Problemer.
+- Kënnt Dir mir mat engem Prêt hëllefen?
+
+##intent:pay_off_loan
+- Ech wëll meng Prêt ofbezuelen
+- Ech wéilt d'Hypothéik fir meng Immobilie bezuelen
+- Bezuelt w.e.g. meng Prêt zréck.
+- Prêt ofbezuelen
+- Ech wéilt de [Mindestbilan](payment_amount) op mäi Prêt bezuelen
+- Ech wëll mäi Prêt ofbezuelen.
+- Ech wëll mäi Prêt bezuelen
+- Bezuelt mäi Prêt
+- Ech wëll meng Rechnung bezuelen
+- Ech wëll eng Bezuelung vu mengem Prêt maachen
+- Ech wëll meng Scholden ofbezuelen
+- maacht eng Bezuelung u mäi Prêt
+- meng Rechnunge bezuelen
+- meng Prêten ofbezuelen
+- mäi Prêt bezuelen
+- Suen zréckbezuelen
+- Ech géif mäi Prêt ofbezuelen
+- Bezuelt 500 Euro fir mäi Prêt.
+- géift Dir 1000 vu mengem Prêt ofbezuelen, wann ech glift?
+- Loosst eis dee Prêt ofbezuelen.
+- Bezuelt meng Prêtscholden.
+- Mäi Studenteprêt ofbezuelen.
+- bezuelt 150 a mäi Studenteprêt.
+- Ech wëll meng Studentescholden erofsetzen
+- Loosst eis déi Hypothéik ofbezuelen
+- Ech sollt e puer vu menge Prête ofbezuelen
+- Ech sollt elo wierklech meng Studenteprête bezuelen.
+- Maacht eng Bezuelung u meng Prêt Schold.
+- meng Prêt Scholden bezuelen
+- bezuelt d'Suen zréck, déi ech geléint hunn
+- Ech wëll e puer vun de Sue bezuelen, déi Dir mir geléint hutt
+- Bezuelt e puer vun de Suen déi ech schëlleg sinn.
+
+##intent:ask_for_document
+- kann ech en [Avis de debit](document_type) kréien?
+- schéckt w.e.g. de [Kontoauszuch](document_type) vum leschte Mount.
+- kënnt Dir mai [Kreditkaartenauszuch](document_type) nei schécken?
+- Ech wéilt mai [Kontoauszuch](document_type) ufroen.
+- schéckt meng [Kontoinformatioun](document_type) u meng Heem Adress.
+- Ech brauch en [Avis de Debit](document_type) op meng lescht Transaktioun.
+- Schéckt en Dokument.
+- Weg schéckt meng [Kreditkaartenauszuch](document_type)!
+- Ech wëll de [Kredittkaartenauszuch](document_type) vum leschte Mount.
+- Schéckt en [Avis de Debit](document_type) vu mengem leschten Transfer heem, wann ech glift.
+- Ech hätt gäeren de [Kredittkaartenauszuch](document_type) vum leschte Mount.
+- Schéckt weg en [Avis de débit](document_type)
+- Schéckt mir mai [Kontoauszug](document_type) heem.
+- Ech wéilt en Dokument ufroen
+- Kéint die wann ech glift mai [Kreditkaarterelevé](document_type) u meng Privataddress schécken?
+- Kënnt Dir meng [PIN](document_type) Nummer schécken?
+- Ech hu meng [PIN](document_type) Nummer vergiess!
+- Ech brauch meng [PIN](document_type) fir meng Kreditkaart
+- schéckt de [PIN](document_type) fir meng [VISA](credit_card) Kaart
+- Schéckt meng [Kreditkaarterklärung](document_type) vun de leschten 2 Méint.
+- Ech brauch de [Kreditkaartenauszuch](document_type) vum leschte Mount.
+- Ech wëll [Debitnoten](document_type) fir meng lescht Transaktiounen ufroen.
+- Schéckt mir eng [Debitnote](document_type) fir d'Transaktioun fir d'Anne.
+- Ech hu mai [PIN](document_type) fir meng [VISA](credit_card)  vergiess.
+- Schéckt [RIB](document_type)
+- Gitt mir mäi [PIN](document_type) fir [5654721186587346](credit_card_number)
+- Schéckt meng [PIN Nummer](document_type) fir meng Kaarten heem, wann ech glift
+- Ech brauch d' [PIN Nummer](document_type) fir meng Kaart [0998529241182811](credit_card_number)
+- Ech hätt gär eng gedréckte Versioun vu mengem [Ausgabeverlaf](document_type), wann dat méiglech ass.
+- Ech brauch eng Ofdréck vu mengem [RIB](document_type), wann ech gelift.
+- Kënnt Dir eng gedréckte Versioun vu menge [Bankinformatiounen](document_type) schécken?
+- Ech wëll mäin [Ausgabegeverlaf](document_type) an Textform, wann ech glift.
+- Ech brauch meng lescht dräi [Kreditkaartauszich](document_type) fir meng Dateien!
+- Ech hu mäi [Kaartcode](document_type) verluer
+- Ech hunn eng nei Kaart bestallt awer Dir hutt mir de [Code](document_type) nach net geschéckt.
+- Ech hu mäi [PIN code](document_type) nach net kritt.
+- Ech krut d' [Kaartenauszuch](document_type) vum leschte Mount net.

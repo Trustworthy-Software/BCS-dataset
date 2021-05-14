@@ -1,0 +1,1062 @@
+﻿
+## intent:affirm
+- En effet
+- correct
+- ça sonne bien
+- Oui
+- oui s'il vous plait
+- bien sûr
+- Ouaip
+- Ouais
+- Oui s'il vous plaît
+- oui svp
+- Sûr
+- D'accord
+- super
+- cool,
+- Oui...
+- C'est vrai
+- je suis d'accord
+- Affirmatif
+- C'est vrai
+- C'est correct
+- Vous l'avez
+- Je suis d'accord
+- C'est exactement ça!
+- Tout est correct
+- Vrai
+- Bien
+- d'accord
+
+## intent:ask_transfer_charge
+- Vais-je être facturé pour le transfert d'argent
+- les transferts coûtent-ils quelque chose?
+- y a-t-il des frais de transfert?
+- Y a-t-il des frais
+- serai-je facturé pour une transaction?
+- les virements coûtent-ils quelque chose?
+- y a-t-il des frais de transfert
+- y a-t-il des frais supplémentaires
+- combien sont les frais de transfert
+- Combien sont les frais de transfert
+- Que dois-je pour un transfert?
+- Les transferts coûtent-ils quelque chose
+- Combien coûte un virement bancaire?
+- Dois-je payer pour un virement bancaire?
+- Les virements électroniques sont-ils gratuits?
+- Les transferts sont-ils gratuits?
+- Puis-je effectuer un transfert gratuitement?
+- Combien dois-je payer pour un virement bancaire?
+- Les transferts sont-ils gratuits ou dois-je payer des frais?
+- Quels sont les frais de virement bancaire?
+- Y a-t-il des frais pour les transferts à l'intérieur du pays?
+- Quel est le montant des frais de transfert international, s'il vous plaît?
+- Avez-vous des frais pour les virements bancaires internationaux?
+- J'ai besoin de plus d'informations sur les frais de virement bancaire.
+- Je souhaite en savoir plus sur vos frais de transfert
+- Je voudrais savoir si les transferts coûtent quelque chose, s'il vous plaît.
+- Y aura-t-il des frais supplémentaires si j'effectue un transfert vers un pays étranger?
+- Je suis concerné par les frais supplémentaires lorsque je paie quelqu'un.
+- Les transferts internationaux sont-ils gratuits?
+- Combien pour un transfert en France?
+- Combien coûte un virement bancaire vers l'Amérique?
+
+## intent:check_balance
+- Combien d'argent y a-t-il sur mon compte?
+- quel est mon solde?
+- quel est mon solde actuel?
+- Que reste-t-il sur ce compte?
+- Combien ai-je sur ce compte?
+- Quel est le solde de ce compte?
+- Combien d'argent reste-t-il sur ce compte?
+- quel est le solde de mon compte
+- quel est le solde de mon compte?
+- quel est le solde de mon compte bancaire
+- quel est le solde de mon compte bancaire?
+- Quel est le solde de ma [carte de crédit](account_type)
+- Quel est mon solde [crédit](account_type)
+- Combien d'argent dois-je sur mes [cartes de crédit](account_type)
+- Montre-moi le solde de ma [carte de crédit](account_type)
+- Quels [comptes de crédit](account_type) ai-je
+- Montre-moi mes [comptes de crédit](account_type)
+- Quel est le solde de mon [compte de crédit](account_type)
+- Quel est mon [compte de crédit](account_type)
+- Quel est mon [credit all](credit_card) solde
+- Quel est le solde de ma carte [emblème](credit_card)
+- Quel est le solde du compte de [credit all](credit_card)
+- Montre-moi mon solde d' [Iron Bank](credit_card)
+- Quel est mon solde bancaire de la [justice bank](credit_card)
+- Quel est le solde du compte bancaire de la [justice bank](credit_card)
+- quel est le solde de ma [carte de crédit](account_type) [emblem](credit_card)?
+- quel est le solde de ma [carte de crédit](account_type)?
+- quel est le solde de mon compte de [carte de crédit](account_type)?
+- Quel est le solde de ma carte [emblem](credit_card)?
+- quel est le solde de ma [carte de crédit](account_type)
+- Quel est le solde de mon [emblem](credit_card)?
+- quel est le solde de ma carte [emblem](credit_card)?
+- quel est le solde de ma carte [embelm](credit_card)?
+- quel est le solde de mon compte [emblème](credit_card)?
+- Combien d'argent ai-je depense ces derniers jours
+- Je dois d'abord vérifier mon solde [de carte de crédit](account_type)
+- vérifier d'abord mon solde [de carte de crédit](account_type)
+- Pouvez-vous me dire le solde de mon compte?
+- Bonjour, je voudrais savoir combien d'argent il y a dans mon compte
+- salut, quel est mon solde s'il vous plaît
+- alors .... quel est mon solde?
+- quel est mon [solde actuel](payment_amount)
+- Quel est mon solde?
+- Combien d'argent ai-je?
+- Ouais, j'aime le café. Mais combien d’argent ai-je?
+- Ouais, je sais. Puisque c'est si gentil: combien d'argent ai-je?
+- Laissez-moi voir mon équilibre, s'il vous plaît.
+- Je veux connaître le solde de mon compte courant
+- Pouvez-vous vérifier mon solde bancaire actuel, s'il vous plaît?
+- Combien d'argent me reste-t-il sur mon [compte courant](account_type)?
+- Combien ai-je sur mon [compte d'épargne](account_type)?
+- Veuillez vérifier le solde de mon compte avec le numéro [FR8817569000701797957377P09](iban_number)
+- Que reste-t-il sur le compte [FI8971122587147425](iban_number)
+- solde de mon [livret d'épargne](account_type)
+- Je devrais vérifier ma situation financière maintenant
+- Quelle est ma situation financière actuelle?
+- Que reste-t-il sur mon compte principal?
+- Qu'est-ce que j'ai sur mon [compte d'épargne](account_type)?
+- Reste-t-il quelque chose sur mon compte bancaire?
+- Me reste-t-il de l'argent?
+
+## intent:check_earnings
+- Combien d'argent est allé sur mon compte le mois dernier?
+- Combien d'argent ai-je gagné l'année dernière?
+- Qu'est-ce que j'ai gagné le mois dernier?
+- Combien ai-je gagné le mois dernier?
+- Combien d'argent ai-je gagné la semaine dernière?
+- combien a été déposé sur mon compte le mois dernier?
+- combien a été déposé sur mon compte au cours des deux dernières semaines?
+- vérifier les dépôts de la semaine dernière
+- total des dépôts sur l'année dernière
+- combien a été déposé en janvier
+- combien d'argent ai-je gagné?
+- qu'est-ce que j'ai gagné?
+- Combien ai-je gagné?
+- Quel est mon gain net ce mois-ci?
+- Ai-je gagné de l'argent le mois dernier?
+- À quoi ressemblent mes revenus pour 2019?
+- Combien d'argent ai-je gagné les 2 derniers mois?
+- Ai-je gagné ou perdu de l'argent ce mois-ci?
+- Je voudrais vérifier mes revenus, s'il vous plaît.
+- Veuillez me donner un aperçu de mes revenus récents.
+- Liste mes revenus pour janvier 2020
+- J'ai besoin de connaître mes gains monétaires de la semaine dernière
+- Revenus des 2 dernières semaines
+- Ai-je gagné quelque chose ce mois-ci?
+- Je veux voir mes revenus actuels de ce mois
+- Je devrais vérifier ce que j'ai gagné ce mois-ci
+- Ai-je perdu de l'argent par rapport au mois dernier?
+- Combien ai-je gagné par rapport aux derniers mois?
+- Quel est mon surplus du mois dernier?
+- Quel est mon gain monétaire à partir de février?
+- Ai-je économisé de l'argent ce mois-ci?
+- Veuillez vérifier mes revenus sur mon [compte courant](account_type)
+- Laissez-moi voir ce que j'ai gagné.
+- Vérifiez la trésorerie de mon compte principal.
+- ai-je réussi à économiser de l'argent ce mois-ci?
+- Qu'est-ce que j'ai fait ces trois derniers mois?
+
+## intent:deny
+- pas vraiment
+- non
+- Je ne pense pas
+- jamais
+- en aucune façon
+- Nan
+- Non merci
+- je ne sais pas
+- Rien!
+- ça ne fait rien
+- Non merci
+- Ne le fais pas
+- Ne fais pas ça, s'il te plait
+- C'est bon, j'ai changé d'avis
+- j'ai changé d'avis
+- Je n'en ai plus besoin
+- Pas du tout
+- c'était faux
+- tu as mal compris
+- c'était incorrect
+- Tu as fait une erreur
+- c'est complètement faux
+- N'importe quoi!
+- Bien sûr que non!
+- Ce n'est pas vrai
+- Je pense que tu as fait une erreur
+- Je ne pense pas que ce soit correct
+
+## intent:goodbye
+- à plus tard
+- Au revoir
+- J'ai fini
+- quitter
+- Arrêtez
+- au revoir
+- Adios
+- CIAO
+- AU REVOIR
+- Merci beaucoup. A plus
+- Bye Bye
+- A une autre fois
+- Jusqu'à plus tard
+- Jusqu'à la prochaine fois
+- C'était agréable de parler avec vous
+- Bonne journée
+- Cheers
+- Jusqu'à la prochaine fois
+- Jusqu'à notre prochaine réunion
+- Jusqu'à ce que nous nous revoyions
+- Je te verrai de l'autre côté
+- jusqu'à la prochaine fois
+- A bientôt, j'espère!
+
+## intent:greet
+- Bonjour
+- salut
+- héy
+- Hey
+- Bonsoir
+- Bonjour
+- Salut RASA!
+- Bonjour?
+- Salut Sara!
+- HEY
+- Bonjour vous êtes toujours là
+- Bonjour.
+- SALUT
+- hey
+- Salut
+- salut!
+- Bonjour
+- salut.
+- Bonjour!
+- bonjour c'est ella
+- Salutations
+- Ravi de vous voir
+- Comment ça va?
+- good afternoon
+- Howdy there
+- Hoy there
+- Greetings
+- Pleased to meet you
+
+## intent:pay_cc
+- Je souhaite payer le [solde minimum](payment_amount) de ma carte [emblem](credit_card)
+- Je veux payer ma [carte de crédit](account_type)
+- Je veux rembourser ma carte
+- Payer ma carte
+- Payer ma carte de crédit [credit all](credit_card)
+- Je veux payer ma facture de [justice bank](credit_card)
+- Je veux payer ma facture d'[Iron Bank](credit_card)
+- Payer mon [visa](credit_card)
+- Je veux payer ma facture de [visa](credit_card)
+- Payer ma [mastercard](credit_card)
+- Je veux payer ma facture [MasterCard](credit_card)
+- Je veux payer ma facture de [carte de crédit](account_type)
+- Je souhaite payer le [solde actuel](payment_amount) de ma [carte de crédit](account_type)
+- pouvez-vous m'aider à payer le [solde actuel](payment_amount) de ma [carte de crédit](account_type)
+- je veux rembourser ma [carte de crédit](account_type) [credit all](credit_card)
+- je veux rembourser ma [carte de crédit](account_type)
+- Je veux payer ma [carte de crédit](account_type)
+- je veux payer ma [carte de crédit](account_type)
+- je veux payer ma [carte de crédit](account_type) [emblem](credit_card)
+- Je veux payer mon [solde actuel](payment_amount) sur ma [carte de crédit](account_type) [emblem](credit_card)
+- je veux payer mon [solde actuel](payment_amount) sur ma [carte de crédit](account_type) [emblem](credit_card)
+- Je veux payer 500 $ sur ma [carte de crédit](account_type) [emblem](credit_card) le dimanche
+- Je veux payer mon [solde actuel](payment_amount) sur ma [carte de crédit](account_type) [emblem](credit_card) aujourd'hui
+- je dois payer ma [carte de crédit](account_type) [emblem](credit_card)
+- Veuillez planifier un paiement sur ma carte de crédit pour le 12 avril
+- Puis-je planifier un paiement sur ma carte de crédit pour demain?
+- Rembourser mon [solde minimum](payment_amount) s'il vous plaît
+- Je souhaite également payer ma facture de [visa](credit_card)
+- Je devine que c'est ca. Puisque c'est tellement, remboursons mon [crédit](account_type)
+- Je veux payer $1200 pour la facture de ma [carte de credit](account_type)
+- Payons cette facture de [carte de crédit](account_type)
+- Rembourse ma [carte de credit](account_type), s'il-te plait
+- Veuillez payer ma carte de crédit avec le numéro [4473 2221 1843 1393](credit_card_number)
+- Je devrais payer ma [master card](credit_card)
+- Effectuer un paiement vers mon [VISA](credit_card) [8885991010391011](credit_card_number)
+
+## intent:search_transactions
+- combien ai-je dépensé chez [Target](vendor_name) cette semaine?
+- quelles sont mes dépenses typiques chez [Amazon](vendor_name)?
+- Je veux vérifier mon historique de dépenses
+- combien ai-je dépensé chez [Starbucks](vendor_name) la semaine dernière?
+- J'ai besoin de vérifier mon historique de dépenses
+- Je veux vérifier mes dépenses
+- Je veux vérifier mon historique de dépenses chez [Starbucks](vendor_name)
+- je veux vérifier mon historique de dépenses
+- je veux voir l'historique de mes transactions
+- Je souhaite rechercher mes transactions passées
+- puis-je rechercher l'historique de mes transactions
+- puis-je regarder les transactions passées
+- Je souhaite rechercher mes transactions avec [amazon](vendor_name)
+- puis-je voir mes transactions avec [Target](vendor_name)
+- combien ai-je dépensé chez [starbucks](vendor_name) le mois dernier?
+- qu'est-ce que j'ai dépensé le mois dernier?
+- Combien ai-je dépensé le mois dernier?
+- Qu'ai-je dépensé chez [Legoland](vendor_name) le mois dernier?
+- Qu'ai-je dépensé à [Legoland](vendor_name) l'année dernière?
+- combien ai-je dépensé chez [Starbucks](vendor_name) l'année dernière
+- Oui! Combien ai-je dépensé à [Starbucks](vendor_name) le mois dernier?
+- Combien ai-je dépensé chez Burger King le mois dernier?
+- à quels endroits ai-je dépensé de l'argent?
+- Donnez-moi un aperçu de mes transactions récentes
+- Répertoriez mes transactions du mois dernier, s'il vous plaît
+- Liste toutes les transactions de mon [compte courant](account_type)
+- J'ai besoin de vérifier mes dernières transactions
+- Obtenez-moi une liste de toutes mes transactions de cette année.
+- Puis-je voir l'historique de mes transactions, s'il vous plaît?
+- Montrez mes transactions récentes.
+- Je veux voir toutes les transactions du mois dernier
+- Historique des transactions
+- Afficher les transactions passées
+- Listez tous mes anciens virements bancaires, s'il vous plaît
+- Laissez-moi voir ce que j'ai dépensé le mois dernier
+- Je devrais vérifier mon historique de dépenses très rapidement
+- Rechercher toutes les transactions du compte IBAN [FO4789314464586943](iban_number)
+- Pouvez-vous afficher l'historique de mes dépenses de [CZ6350511354464533953564](iban_number)
+- Je veux vérifier mes dépenses récentes
+- J'ai besoin de voir mes dépenses sur mon [VISA](credit_card)
+- Donnez-moi l'historique de mes transactions
+- Afficher mes dépenses sur ma [master card](credit_card) avec le numéro [5502922455327890](credit_card_number)
+- Combien d'argent ai-je dépensé avec ma carte de crédit en juin?
+- Vérifier l'historique de mes transactions pour toutes mes cartes
+- Afficher l'historique de mes transactions pour mon compte bancaire principal
+
+## intent:thankyou
+- Merci, au revoir
+- ok merci au revoir
+- Merci au revoir
+- euh bien merci au revoir
+- Merci
+- et c'est tout merci et au revoir
+- d'accord, merci
+- Merci
+- Merci au revoir
+- Merci et au revoir
+- Merci!
+- Merci beaucoup
+- Merci beaucoup
+- Je te remercie
+- Je vous en suis reconnaissant
+- J'apprécie ton aide
+- Merci de votre aide
+- Merci pour votre aide
+- Je l'apprécie beaucoup
+- Je ne sais pas quoi faire sans toi
+- Je tiens à vous remercier pour l'aide
+- C'était gentil de ta part
+- j'apprécie beaucoup l'aide
+- Je vous remercie de votre aide
+- Je suis reconnaissant pour votre aide
+- Merci pour votre service
+- J'apprécie vraiment votre service
+- Bon bot
+
+## intent:transfer_money
+- Je veux payer John
+- Je veux transférer 100 $ à Bob
+- puis-je transférer de l'argent à Sally
+- Je veux transférer de l'argent
+- Je veux payer quelqu'un
+- puis-je payer quelqu'un
+- J'ai besoin de transférer de l'argent à un ami
+- puis-je transférer de l'argent à ma mère
+- Je veux payer Bill
+- payer mon ami
+- Transférer de l'argent
+- Je veux transférer 100 $ à John
+- je veux transférer 400 $ à Akela
+- Je veux payer Paula Handy
+- payez 40 $ à Katy Parrow s'il vous plaît
+- transférer 60 $ à John Jacob
+- payer Evan Oslo
+- paye Lisa s'il te plait
+- puis-je transférer de l'argent vers Kyle Gardner?
+- Payer Karen 60 Euros
+- payer 60 $ à Lisa 
+- transférer 60 $ à Sally
+- besoin de transférer de l'argent
+- Je veux faire un transfert à Kelly
+- Payez 50 $ à Percy
+- Payez 50 $ pour Percy
+- Ok paie Emma
+- payer Emma
+- je veux transférer 100 $ à Jane smith
+- je veux transférer 100 $ à ma fille
+- je veux transférer de l'argent s'il vous plaît
+- je veux dire je veux transférer de l'argent
+- J'ai besoin de payer un ami.
+- transférer de l'argent vers evan oslo
+- transférer de l'argent à sara
+- J'ai besoin de transférer de l'argent à ma grand-mère Judith.
+- J'ai besoin de donner de l'argent à mon ami Pedro
+- Faites une transaction pour le mariage de Willie.
+- Je veux faire un don
+- Faites un don de 200 $ à la fondation de prévention du cancer.
+- Pouvez-vous faire un don en mon nom?
+- Faites un don à Amnesty International
+- Envoyez 150 $ à Target, s'il vous plaît.
+- Effectuer un virement depuis mon compte bancaire principal
+- transaction de 60 $ à Bob
+- Je dois faire un virement bancaire maintenant.
+
+## intent:check_recipients
+- À qui puis-j'envoyer de l'argent?
+- Qui sont mes destinataires connus
+- Montre-moi ma liste de destinataires
+- Afficher la liste des destinataires
+- Montrez-moi les personnes auxquelles je peux envoyer de l'argent
+- Qui est un bénéficiaire valide
+- qui puis-je payer?
+- qui puis-je transférer de l'argent?
+- qui est dans ma liste de destinataires?
+- à qui puis-je transférer de l'argent?
+- Qui est sur votre liste?
+- qui est dans ma liste de destinataires connus?
+- Pouvons-nous recommencer?
+- Qui est dans ma liste de destinataires?
+- À qui puis-je transférer de l'argent?
+- Veuillez énumérer tous mes destinataires.
+- Liste tous mes destinataires actuels.
+- J'aimerais connaître mes destinataires.
+- Je veux voir tous les destinataires disponibles.
+- liste de mes benficiairies
+- Je veux connaître mes bénéficiaires sauvés
+- puis-je voir à qui je peux transférer de l'argent?
+- obtenez-moi mes bénéficiaires
+- vérifier les bénéficiaires actuels.
+- affichez les informations de mon destinataire, s'il vous plaît.
+- qui est dans ma liste de bénéficiaires?
+- qui sont les personnes dans ma liste de destinataires?
+- Bob Jungels est-il dans ma liste de destinataires?
+
+##intent: ask_for_atm
+- où est le guichet automatique le plus proche?
+- où puis-je trouver le guichet automatique le plus proche?
+- y a-t-il un guichet automatique à proximité?
+- où est le guichet automatique le plus proche?
+- J'ai besoin de trouver un guichet automatique.
+- J'ai besoin de trouver un guichet automatique à Braavos.
+- y a-t-il un guichet automatique près de moi?
+- y a-t-il un guichet automatique près de chez moi?
+- j'ai besoin de retirer de l'argent
+- j'ai besoin d'argent liquide.
+- y a-t-il un guichet automatique à Metropolis?
+- aide-moi à trouver un guichet automatique
+- j'ai besoin d'aide pour trouver un guichet automatique.
+- aidez-moi à trouver un guichet automatique, s'il vous plaît
+- Aidez à trouver un guichet automatique.
+- trouver un guichet automatique près de moi
+- trouver un guichet automatique à proximité
+- Trouvez un guichet automatique près de chez moi.
+- trouver un guichet automatique
+- Je dois trouver un guichet automatique.
+- chercher un guichet automatique
+- chercher guichet automatique
+- chercher un guichet automatique aux alentours
+- Je souhaite retirer de l'argent
+- Veuillez me trouver un guichet automatique
+- trouver un guichet automatique dans la région
+- rechercher un guichet automatique dans la région
+- trouver une machine à dire automatique
+- trouver un guichet automatique à proximité
+- Je cherche un distributeur de billets
+- Je recherche un guichet automatique dans cette zone.
+- Obtenez-moi un guichet automatique à proximité
+- Je recherche un guichet automatique dans les environs
+- Pouvez-vous vérifier la zone pour un guichet automatique, s'il vous plaît?
+- J'ai besoin d'un guichet automatique Iron Bank pour le moment
+- guichet automatique de la justice bank à proximité
+- Veuillez indiquer le guichet automatique le plus proche sur la carte.
+- Montrez-moi tous les guichets automatiques de la région.
+- J'ai besoin de trouver un guichet automatique pour retirer de l'argent.
+
+##intent: ask_for_bank
+- Je dois aller à la banque
+- y a-t-il une banque à proximité?
+- j'ai besoin de trouver une banque à braavos
+- j'ai besoin d'une banque à proximité
+- aide-moi à trouver une banque
+- banque la plus proche
+- banque la plus proche à gotham
+- où est une banque
+- où est une banque près de moi?
+- y a-t-il une banque près de moi?
+- je ne trouve pas de banque
+- j'ai besoin de trouver une succursale de l'Iron Bank
+- trouver une banque à proximité.
+- aide-moi à trouver une banque
+- J'ai besoin de trouver la banque la plus proche
+- où se trouve la banque la plus proche?
+- Où puis-je trouver une banque?
+- Rechercher une banque à proximité
+- Rechercher une banque dans la région
+- Je recherche une banque à proximité
+- J'ai besoin de trouver une banque maintenant
+- Trouvez une banque dans ma région.
+- Recherchez une banque dans cette zone
+- Cherchez une banque à proximité
+- Trouvez une banque à proximité, s'il vous plaît.
+- Pouvez-vous rechercher une banque ici, s'il vous plaît?
+- J'ai du mal à trouver une banque ici.
+- banque la plus proche de la zone
+- y a-t-il une banque de justice à proximité de cette adresse?
+- Quelle est la banque de fer la plus proche de chez moi?
+- trouve une banque pour moi
+- rendez-moi service et cherchez une justice bank dans ce domaine.
+- Je n'arrive pas à trouver une emblem bank ici.
+- Y a-t-il une banque Credit all ici quelque part?
+- Je ne vois aucune Iron Bank nulle part!
+- y a-t-il une banque dans le quartier?
+- Y a-t-il un crédit dans cette rue?
+- Je dois faire un retrait à la banque tout de suite!
+- Aidez-moi à trouver un emblème dans ce quartier, merci.
+- Pouvez-vous me montrer la banque la plus proche sur la carte, s'il vous plaît?
+- Montre-moi toutes les banques de mon entourage
+
+##intent: schedule_appointment
+- je souhaite un rendez-vous avec un consultant
+- puis-je rencontrer un consultant
+- je veux me rencontrer à la banque
+- je veux un rendez-vous
+- planifier un rendez-vous
+- prendre rendez-vous, s'il vous plaît
+- fixer un rendez-vous
+- rendez-vous
+- je veux parler à un consultant
+- puis-je organiser une réunion?
+- je veux voir un employé
+- je veux prendre rendez-vous à la banque
+- quelqu'un est-il libre de se rencontrer?
+- j'ai besoin d'une consultation
+- planifier une consultation, s'il vous plaît.
+- J'ai besoin de voir un consultant à la banque.
+- veuillez prendre rendez-vous pour moi
+- veuillez prendre rendez-vous.
+- veuillez planifier une rencontre avec un consultant.
+- Je souhaite rencontrer un consultant
+- Pouvez-vous m'aider à réserver une réunion?
+- Je veux prendre rendez-vous
+- Veuillez réserver une consultation dès que possible
+- Puis-je désigner une consultation pour mardi matin prochain?
+- Veuillez planifier une réunion avec un consultant la semaine prochaine
+- Je voudrais parler à quelqu'un à la banque
+- Je veux rencontrer un caissier, s'il te plaît
+- Veuillez organiser une réunion
+- J'ai besoin de prendre rendez-vous
+- J'ai besoin des conseils d'un consultant
+- Pourrions-nous organiser une réunion à la banque, s'il vous plaît.
+- J'ai besoin de conseils financiers
+- J'ai besoin d'un rendez-vous avec un expert
+- Je voudrais parler à mon consultant de l'investissement d'argent
+- Je souhaite rencontrer un expert pour discuter de mes options actuelles
+- Quelqu'un est-il disponible pour me consulter à ce sujet?
+- Puis-je voir quelqu'un pour en parler plus en détail?
+- Je veux des conseils sur l'investissement. Quelqu'un serait-il disponible pour cela?
+- Un expert est-il disponible pour me parler demain?
+
+##intent: open_account
+- je souhaite ouvrir un compte bancaire
+- je veux ouvrir un compte
+- veuillez ouvrir un compte de [carte de crédit](account_type)
+- j'ai besoin d'un nouveau compte
+- ouvrez un nouveau compte bancaire, s'il vous plaît.
+- puis-je ouvrir un nouveau compte de [carte de crédit](account_type), s'il vous plaît?
+- je veux ouvrir un nouveau compte bancaire
+- j'ai besoin d'ouvrir un nouveau compte
+- ouvrir un nouveau compte
+- je veux devenir client
+- je suis un nouveau client
+- pourriez-vous ouvrir un compte bancaire pour moi
+- Je souhaite ouvrir un [compte d'épargne](account_type) pour mes enfants.
+- Veuillez ouvrir un nouveau compte pour ma fille.
+- Je veux ouvrir un compte bancaire partagé entre moi et ma femme
+- Puis-je ouvrir un [compte d'épargne](account_type) pour moi-même?
+- Ouvrez un compte pour mon fils, s'il vous plaît.
+- Je veux un [compte d'épargne](account_type) pour mes deux petits-enfants.
+- Veuillez ouvrir un [compte de crédit](account_type)
+- Je suis un nouveau client et je souhaite ouvrir un [compte courant](account_type)
+- Bonjour, veuillez créer un compte bancaire pour moi.
+- Je souhaite créer un compte partagé pour moi et ma femme, s'il vous plaît.
+- Créez un compte pour mon mari et moi.
+- Pourriez-vous ouvrir un [compte d'épargne](account_type) pour mon fils nouveau-né?
+- Créer un nouveau compte
+- Je souhaite créer un [compte épargne](account_type)
+- ouvrir compte 
+- Je vous contacte car j'ai besoin d'ouvrir un compte.
+- Voulez-vous m'aider à ouvrir un [compte courant](account_type)?
+- Ouvrez un nouveau compte pour moi, s'il vous plaît
+- Je viens de devenir père et je souhaite créer un [livret d'épargne](account_type) pour mon fils
+- Permettez-moi de créer un [compte courant](account_type) commun pour moi et mon partenaire
+- Ouvrez un [livret d'épargne](account_type) pour mes enfants.
+- Je souhaite créer un [compte courant](account_type) auprès de votre banque.
+- Je suis un nouveau client et souhaite ouvrir un compte bancaire chez vous
+- Je souhaite ouvrir mon premier compte bancaire
+- J'ai décidé d'ouvrir un [compte d'épargne](account_type) pour moi-même
+- Créez un compte à mon nom, s'il vous plaît.
+- Créer un nouveau [compte courant](account_type)
+- Je veux un compte régulier
+- Quel type de compte recommandez-vous?
+- Quels comptes bancaires proposez-vous?
+- Quelles sont mes options pour les comptes à votre banque?
+
+##intent: close_account
+- je veux fermer mon compte
+- je n'ai plus besoin de mon compte.
+- j'ai besoin de fermer mon compte bancaire
+- Aidez-moi à fermer le compte, s'il vous plaît.
+- je veux résilier mon compte
+- je souhaite mettre fin au service, s'il vous plaît
+- je veux annuler les services.
+- je voudrais partir.
+- veuillez fermer mon compte
+- Je souhaite fermer mon compte bancaire, s'il vous plaît.
+- puis-je fermer ma [carte de crédit](account_type)?
+- je veux quitter la banque.
+- je n'ai plus besoin de vos services.
+- Fermez mon [compte d'épargne](account_type), s'il vous plaît.
+- Veuillez résilier mes deux comptes car je quitterai bientôt le pays.
+- je veux fermer mon [compte courant](account_type).
+- Fermez mon [compte d'épargne](account_type) et mon [compte courant](account_type), s'il vous plaît.
+- Arrêtez mes comptes.
+- Pouvez-vous fermer mon [compte courant](account_type)?
+- fermer un [compte d'épargne](account_type)
+- résilier le [compte courant](account_type)
+- Je n'ai plus besoin de mon [compte de crédit](account_type).
+- Veuillez fermer mon compte IBAN [GB NWBK 8291 0391 9444 12](iban_number)
+- Fermez tous mes comptes bancaires, s'il vous plaît. Je pars
+- Résiliez mon compte principal immédiatement.
+- Résilier le compte bancaire
+- Aidez-moi à fermer mon [compte de crédit](account_type)
+- Je n'ai plus besoin du [compte d'épargne](account_type).
+- Je dois résilier le compte que je partage avec mon mari.
+- Fermer mon compte bancaire IBAN [NL73ABNA1588633721](iban_number)
+- Mettre fin à IBAN [TL848537682679115548385](iban_number)
+- Fermer le compte avec le numéro IBAN [LU00908884921211210921](iban_number)
+- Fermez mon [compte épargne](account_type) car je n'en ai plus besoin.
+- Je n'ai plus besoin de mon compte
+- Suspendre mon [compte d'épargne](account_type)
+- Je souhaite clôturer tous mes comptes lorsque j'ai déménagé dans une nouvelle banque
+- Fermer mon [livret d'épargne](account_type)
+- Je n'aurai plus besoin de mon compte avec le numéro [TD4645178593891361314353146](iban_number)
+- Fermez tous mes comptes s'il vous plaît.
+- Fermez mon [compte d'épargne](account_type) maintenant.
+- Suspendre [BF1412283919251793469818551](iban_number)
+
+##intent:order_card
+- j'ai besoin d'une nouvelle carte de crédit
+- je veux une nouvelle carte
+- je veux commander une carte
+- je veux commander une nouvelle carte
+- j'ai perdu ma carte de crédit
+- ma carte a été volée
+- Ma carte de crédit a été volée et j'en ai besoin d'une nouvelle.
+- Puis-je obtenir une nouvelle carte?
+- puis-je commander un [Visa](credit_card)
+- Ma [Master Card](credit_card) a été volée
+- Quelqu'un a volé mon [visa](credit_card)
+- J'ai besoin de commander une carte de crédit
+- besoin d'un nouveau [visa](credit_card).
+- pourriez-vous délivrer un nouveau [visa](credit_card), s'il vous plaît?
+- aidez-moi à obtenir une nouvelle [Master Card](credit_card), s'il vous plaît!
+- je dois obtenir une nouvelle carte.
+- pourriez-vous m'obtenir un nouveau [visa](credit_card), s'il vous plaît?
+- Je dois bloquer ma carte de crédit et en obtenir une nouvelle.
+- Veuillez m'envoyer une nouvelle carte de débit
+- J'aurai bientôt besoin d'un nouveau [visa](credit_card).
+- Je souhaite demander une [Master Card Gold](credit_card), merci
+- Ma carte expire bientôt
+- Je souhaite passer de [Visa](credit_card) à [Master Card](credit_card)
+- Aidez-moi à commander un nouveau [Vpay](credit_card), s'il vous plaît!
+- Comment puis-je obtenir une carte de crédit?
+- demande de carte de débit
+- Commander une [carte maîtresse](credit_card)
+- Envoyez-moi une carte de crédit [Visa Classic](credit_card)
+- je veux une nouvelle carte de débit
+- commandez un nouveau [visa](credit_card) pour moi
+- Puis-je commander un [VPAY](credit_card), s'il vous plaît?
+- Je souhaite une [Visa](credit_card) avec une limite de dépense de 1500, s'il vous plaît
+- Commandez une carte de débit pour moi
+- Créez une carte de débit à mon nom.
+- Enregistrez-moi une carte [VPAY](credit_card)
+- Enregistrez pour moi une nouvelle [Master Card Gold](credit_card).
+- Je souhaite commander une carte de débit pour mon compte principal.
+- Je souhaite enregistrer une carte de débit sur mon [compte courant](account_type).
+- Quelles sont mes options pour commander une nouvelle carte?
+- Quelles cartes de crédit proposez-vous?
+- J'envisage de changer de carte.
+- Quelle carte est la meilleure pour ma situation financière actuelle?
+- quelles cartes pouvez-vous m'offrir?
+
+##intent:make_standing_order
+- je veux passer un ordre permanent
+- je souhaite effectuer un virement bancaire automatique
+- je souhaite effectuer des paiements mensuels
+- commencer un ordre permanent.
+- ordre permanent
+- créer des paiements automatiques
+- créer un ordre permanent.
+- Je souhaite émettre un ordre permanent
+- Veuillez créer des virements bancaires mensuels.
+- Faites des paiements mensuels de 500 dollars à ma mère.
+- Je souhaite effectuer des paiements réguliers pour rembourser mon prêt.
+- Créer un ordre permanent pour payer ma voiture.
+- Effectuez des paiements mensuels pour rembourser ma maison.
+- faire un ordre permanent pour le loyer.
+- Je souhaite créer des paiements mensuels pour les services publics.
+- Créez un ordre permanent vers mon [compte d'épargne](account_type).
+- Je souhaite effectuer des virements mensuels vers mon [compte d'épargne](account_type).
+- Effectuer des paiements mensuels
+- effectuer des paiements mensuels pour rembourser mon prêt
+- Configurer un nouvel ordre permanent
+- Veuillez créer des virements mensuels vers mon propriétaire M. Smith.
+- Pouvez-vous m'aider à mettre en place un ordre permanent?
+- Je souhaite effectuer des acomptes mensuels, s'il vous plaît
+- Faire un ordre permanent pour mon loyer et mes services publics.
+- Aidez-moi à créer un ordre permanent pour mon abonnement à un journal
+- ordre permanent d'hypothèque
+- effectuer des paiements bimensuels vers Evan Oslo
+- créer des paiements réguliers à [GR3801426847213749953999241](iban_number)
+- configurer l'ordre permanent pour le compte IBAN [HU67109180018431439352322896](iban_number)
+- Faites régulièrement des dons à l'organisation SameYou.
+- Passer une commande permanente de mon [compte courant](account_type) à l'IBAN [AT911947056937785836] (iban_number)
+- Lancer un ordre permanent à partir de mon compte régulier
+- Émettre des paiements mensuels sur le compte suivant: [IBAN AD0518985719167783363628](iban_number)
+
+##intent:cancel_standing_order
+- je veux mettre fin à un ordre permanent
+- veuillez annuler un virement bancaire régulier
+- j'ai besoin d'arrêter un ordre permanent
+- arrêter d'effectuer ce paiement mensuel
+- je souhaite annuler les mensualités de ma maison
+- mettre fin à un ordre permanent.
+- annuler l'ordre permanent s'il vous plaît.
+- Je n'ai plus besoin de passer cet ordre permanent.
+- annulation de l'ordre permanent
+- annuler le paiement mensuel
+- Veuillez supprimer mon ordre permanent envers mon propriétaire car je déménagerai ce mois-ci.
+- Supprimer l'ordre permanent.
+- Bloquer mon ordre permanent.
+- Veuillez reporter indéfiniment mes ordres permanents.
+- Je dois supprimer un de mes ordres permanents.
+- Abandonnez les ordres permanents, s'il vous plaît.
+- Annuler le paiement mensuel vers mon [compte d'épargne](account_type).
+- Mettre fin aux acomptes mensuels sur mon prêt
+- Suspendre mes ordres permanents actuels.
+- Je souhaite suspendre mon ordre permanent envers Katy
+- Arrêtez les paiements hebdomadaires vers IBAN [CH9089144321863955812](iban_number)
+- Suspendre l'ordre permanent vers le compte bancaire IBAN [SE6761643362159754747358](iban_number)
+- Veuillez mettre fin à tous mes paiements réguliers
+- Je veux arrêter tous mes ordres permanents
+- Arrêtez le paiement mensuel vers Netflix, s'il vous plaît.
+- Annuler tous mes ordres permanents actuels, s'il vous plaît
+- Suspendre mon ordre permanent vers [BJ73K645365976731155988292](iban_number)
+- Suspendre les dons vers Médecins sans frontières
+- Mettre fin au paiement de mon loyer et des services publics à mesure que je déménage.
+- Arrêtez tous les paiements réguliers vers SEAT.
+
+##intent:cancel_bank_transfer
+- je veux annuler un paiement
+- je ne veux plus effectuer ce paiement
+- veuillez annuler le dernier virement bancaire
+- j'ai fait une erreur dans mon virement bancaire
+- arrêter ce paiement
+- pouvez-vous annuler un de mes transferts?
+- il y a quelque chose qui ne va pas dans mon dernier virement bancaire
+- mettre fin au transfert
+- ne fais pas ce dernier transfert
+- annuler le virement bancaire
+- veuillez mettre fin au paiement
+- Je dois annuler un paiement.
+- Je veux arrêter un virement bancaire.
+- Je dois annuler mon dernier virement bancaire.
+- Veuillez annuler mon transfert.
+- Veuillez arrêter mon dernier virement bancaire.
+- J'ai besoin de corriger une erreur dans mes transferts.
+- Arrêtez le transfert que je viens de faire, s'il vous plaît.
+- Il y a une erreur dans mon dernier virement de paiement
+- Je souhaite corriger mon dernier virement bancaire.
+- Annuler mon transfert pour Katy, s'il vous plaît
+- Suspendre le virement pour le destinataire [FR0630003000408291445332P39](iban_number)
+- Suspendre le dernier virement bancaire
+- J'ai fait un transfert erroné! Veuillez l'annuler.
+- Arrêter le paiement de Bill
+- Pouvez-vous annuler le dernier virement bancaire, s'il vous plaît?
+- Mon dernier transfert a été envoyé à la mauvaise personne
+- Veuillez annuler mon dernier virement bancaire
+- Annuler le virement bancaire vers [DE12500105174689356533](iban_number)
+- Pourriez-vous annuler le transfert à Lisa, s'il vous plaît?
+- Je dois corriger une erreur dans mon virement bancaire
+- suspendre le dernier transfert pour l'instant.
+- annuler le transfert vers ma maman
+- temriner la transaction de 1000 euros
+- Je dois annuler mon dernier virement en raison d'une erreur que j'ai commise
+- Annuler le don à la fondation Bill Gates
+- J'ai mis les mauvaises informations lors de mon dernier transfert.
+- Permettez-moi de corriger mon transfert.
+- Je dois supprimer une erreur dans mon virement bancaire
+- J'ai mis le mauvais destinataire dans mon transfert. Veuillez l'annuler.
+
+##intent:increase_card_limit
+- je veux augmenter la limite de ma carte
+- Veuillez augmenter la limite de ma carte [iron bank](credit_card).
+- augmenter la limite de la carte de crédit
+- je dois augmenter la limite de ma carte pour mes prochaines vacances
+- je dois augmenter le plafond de ma carte de crédit.
+- changer la limite de ma carte [Justice Bank](credit_card) à 1500 $.
+- Je veux une limite plus élevée pour ma carte de crédit [Iron Bank](credit_card), s'il vous plaît.
+- augmenter la limite
+- élever mon plafond
+- augmenter la limite de carte
+- Veuillez augmenter la limite de ma carte de crédit.
+- Veuillez augmenter la limite de ma carte.
+- Augmenter la limite de ma carte [Visa](credit_card)
+- Relevez le plafond de mon [Vpay](credit_card)
+- Je souhaite changer mon plafond [Mastercard](credit_card) à 1000 euros.
+- Je souhaite augmenter la limite de mon [Vpay](credit_card) à 2000
+- Augmentez ma limite de [Master Card Gold](credit_card)
+- Je veux une limite de carte de crédit plus élevée.
+- Veuillez augmenter le plafond du [Visa](credit_card) de 500 à 1500 euros
+- Je dois augmenter la limite de ma carte pour mes prochaines vacances
+- Je pars en voyage d'affaires la semaine prochaine et je dois augmenter la limite de ma [master card](credit_card).
+- Augmenter la limite de mon [visa](credit_card) ( [4916 4538 0047 5374](credit_card_number) )
+- Augmentez la limite de dépenses de mon [VISA](credit_card) ( [4485202186046191823](credit_card_number) ), s'il vous plaît
+- Je souhaite avoir une limite de carte de crédit plus élevée.
+- Je souhaite une limite de dépenses plus élevée pour mon [visa](credit_card).
+- augmenter la limite de dépenses sur la carte de crédit à 2500
+- Augmenter ma limite de dépenses
+- je veux dépenser plus d'argent
+- ma limite de carte de crédit est trop basse
+- augmenter la limite de ma carte avec le numéro [4400 0124 5531 8885](credit_card_number)
+- augmenter la limite de dépenses au [7543 7829 7239 8327](credit_card_number)
+- J'ai besoin de plus d'argent disponible sur mes cartes de crédit
+- Augmenter la limite de mes deux cartes
+
+##intent:decrease_card_limit
+- je veux réduire ma limite de carte de crédit
+- j'ai besoin de limiter mes dépenses
+- Je souhaite réduire la limite de ma carte de crédit de [credit all](credit_card).
+- je dois baisser le plafond de ma carte.
+- limite de diminution
+- diminuer la limite sur la carte bancaire de la [Justice Bank](credit_card).
+- Veuillez baisser la limite de ma carte.
+- changer le plafond de la carte de crédit à 500 dollars par mois.
+- pouvez-vous réduire la limite de la carte de crédit?
+- abaisseriez-vous la limite de l'[Iron Bank](credit_card)?
+- Je veux abaisser ma limite.
+- J'ai besoin de réduire mes dépenses.
+- réduire le plafond des cartes de crédit
+- abaisser le plafond de ma carte
+- Je dois limiter mes dépenses.
+- Veuillez diminuer ma limite de carte de crédit.
+- Diminuez la limite de ma [mastercard](credit_card)
+- Réduisez la limite de ma carte [visa](credit_card).
+- abaisser le plafond de mon [VISA](credit_card)
+- Diminuez la limite de [Vpay](credit_card), s'il vous plaît.
+- Je dois baisser les limites de ma carte.
+- Abaissez les plafonds de toutes mes cartes à 500, s'il vous plaît.
+- Diminuez la limite de ma carte se terminant par 4623, s'il vous plaît.
+- J'ai besoin de réduire la limite de dépenses sur ma [Mastercard](credit_card)
+- Diminuer la limite de dépenses sur la carte [5491157073649470](credit_card_number)
+- J'ai besoin de limiter mes dépenses
+- Réduire la limite de ma [master card](credit_card)
+- Réduisez le montant que je peux dépenser sur mes cartes de crédit.
+- Je dois surveiller mes dépenses sur ma carte.
+- Je dépense beaucoup trop d'argent
+- ma limite de [visa](credit_card) doit être inférieure
+- abaisser la limite de la carte de [6643 9992 0013 9532](credit_card_number)
+- diminuez la limite de dépenses du [7438734927328222](credit_card_number) s'il vous plaît.
+- Réduire les limites de dépenses sur toutes mes cartes
+- Je devrais diminuer mes dépenses.
+
+##intent:block_card
+- ma carte a été volée!
+- Pouvez-vous bloquer ma carte [visa](credit_card)?
+- Mon portefeuille a été volé et je dois bloquer mes cartes.
+- j'ai perdu ma carte de crédit.
+- bloquer toutes mes cartes de crédit immédiatement!
+- bloquer [MasterCard](credit_card)
+- j'ai perdu ma carte [Vpay](credit_card)!
+- Mon [Visa](credit_card) a été volé!
+- Veuillez bloquer ma [Master Card](credit_card)!
+- il y a une activité suspecte dans mon historique de dépenses
+- j'ai besoin de bloquer ma carte.
+- veuillez bloquer ma carte de crédit!
+- bloquez toutes mes cartes!
+- quelqu'un a volé ma carte de crédit!
+- J'ai perdu mon portefeuille hier et je dois bloquer ma carte.
+- je ne trouve pas ma carte de crédit.
+- Mon porte-monnaie a été volé
+- Quelqu'un a volé mon portefeuille.
+- Je dois annuler ma carte de crédit.
+- Veuillez annuler ma [Master Card](credit_card)
+- Veuillez annuler ma [master card](credit_card) avec le numéro [5490 7545 3531 8107](credit_card_number)
+- Bloquez toutes mes cartes, s'il vous plaît.
+- Résilier la carte: [Visa](credit_card), [4940250864739192](credit_card_number)
+- Je dois bloquer ma carte en raison d'une activité suspecte
+- Je dois bloquer immédiatement la carte car elle a été volée.
+- Mettez fin à ma carte, s'il vous plaît.
+- Suspendez ma carte se terminant par 5543, s'il vous plaît.
+- Ma carte doit être invalidée immédiatement
+- Je n'ai plus besoin de mon [VISA](credit_card) car je suis passé à [Master Card](credit_card)
+- Puis-je changer mon [VISA classic](credit_card) en [Master Card Gold](credit_card), s'il vous plaît? Merci
+- Bloquer [4432112287564921](credit_card_number) car il a été volé
+- J'ai perdu mon portefeuille. Veuillez suspendre mes deux cartes
+- Veuillez supprimer ma carte [VISA](credit_card) de votre système
+
+##intent:change_address
+- j'ai besoin de mettre à jour mon adresse
+- changer mon adresse personnelle
+- mettre à jour mes informations d'adresse.
+- j'ai récemment déménagé à une nouvelle adresse
+- j'ai déménagé la semaine dernière.
+- J'ai déménagé et je souhaite mettre à jour mon adresse.
+- j'ai besoin de changer mon adresse
+- changer mon adresse de facturation.
+- j'ai une nouvelle adresse.
+- changement d'adresse
+- mettre à jour les informations d'adresse
+- j'ai déménagé dans un nouvel endroit
+- je veux mettre à jour mon adresse
+- je veux changer mon adresse
+- j'ai déménagé
+- Je déménagerai bientôt et je souhaite mettre à jour les informations d'adresse
+- je veux vous informer de mon récent déménagement
+- je vous informe de ma nouvelle adresse.
+- Mettre à jour les informations d'adresse
+- J'ai déménagé dans un nouvel appartement.
+- Changez mon adresse personnelle, s'il vous plaît.
+- Pouvez-vous mettre à jour mes informations d'adresse, s'il vous plaît?
+- J'ai récemment déménagé de mon ancienne maison.
+- J'ai une nouvelle adresse.
+- J'ai déménagé hier et je dois mettre à jour mes informations d'adresse.
+- Je déménagerai bientôt, pouvez-vous changer mon adresse personnelle?
+- Mise à jour d'adresse
+- J'ai une nouvelle adresse personnelle et je souhaite mettre à jour les informations de mon profil
+- Mettre à jour mon adresse personnelle
+- Je dois changer d'adresse
+- Changer mon adresse personnelle
+- Je suis maintenant passé à l'adresse suivante
+- Je réside maintenant dans un nouvel endroit
+- J'ai un nouvel endroit
+- J'ai déménagé dans une nouvelle résidence.
+- Nous avons déménagé récemment.
+
+##intent:apply_for_loan
+- je souhaite demander un prêt.
+- je veux un prêt
+- j'ai besoin d'argent pour une nouvelle voiture
+- je veux contracter un prêt
+- demande de prêt
+- application pour un prêt
+- je souhaite remplir un formulaire de demande de prêt.
+- demande de prêt
+- j'ai besoin d'un crédit
+- Je veux demander un prêt.
+- application pour un crédit
+- j'ai besoin de faire un gros achat.
+- j'ai besoin de contracter un prêt
+- j'ai besoin d'emprunter de l'argent
+- demande de crédit
+- Je souhaite demander un crédit
+- j'ai besoin de prendre une hypothèque
+- Je veux emprunter de l'argent à la banque
+- Je veux contracter une hypothèque pour une maison
+- j'ai besoin d'une hypothèque pour acheter une maison
+- J'ai besoin d'une deuxième hypothèque sur ma maison.
+- j'ai besoin d'une aide financière, s'il vous plaît.
+- Je souhaite demander un prêt étudiant
+- J'ai besoin d'un prêt étudiant
+- J'ai besoin d'emprunter de l'argent pour une voiture
+- Je souhaite acheter une maison et j'ai besoin de contracter un crédit
+- Je dois contracter un emprunt.
+- Prêtez-moi de l'argent pour une nouvelle cuisine
+- Je voudrais créer une entreprise mais j'ai besoin d'argent pour cela.
+- Je suis dans un pétrin financier
+- J'ai actuellement des difficultés financières et je dois contracter une deuxième hypothèque sur la maison.
+- J'ai besoin d'un prêt de 10000 $.
+- J'ai des difficultés financières.
+- Je souhaite contracter un prêt de 50000 $ pour une voiture que je compte acheter
+- J'ai besoin d'une aide financière
+- J'ai des problèmes monétaires.
+- Pouvez-vous m'aider avec un prêt?
+
+##intent:pay_off_loan
+- Je veux rembourser mon hypothèque
+- Je souhaite payer l'hypothèque de ma propriété
+- Veuillez rembourser mon hypothèque.
+- Rembourser l'hypothèque
+- Je souhaite payer le [solde minimum](payment_amount) de mon prêt.
+- Je veux rembourser mon prêt.
+- Je veux payer mon prêt
+- Payer mon prêt
+- Je veux payer ma facture
+- je veux effectuer un paiement pour mon prêt
+- Je veux payer mes dettes
+- effectuer un paiement pour mon prêt
+- Paie mes factures
+- rembourser mes prêts
+- payer mon prêt
+- rembourser
+- J'aimerais rembourser mon hypothèque
+- Payer 500 euros pour mon prêt.
+- Voulez-vous rembourser 1000 sur mon hypothèque, s'il vous plaît?
+- Remboursons ce prêt.
+- Payer mes dettes de prêt.
+- Rembourser mon prêt étudiant.
+- payer 150 pour mon prêt étudiant.
+- Je souhaite réduire mes dettes de prêt étudiant
+- Remboursons cette hypothèque
+- Je devrais rembourser certains de mes prêts
+- Je devrais vraiment payer mes prêts étudiants maintenant.
+- Effectuer un paiement sur ma dette hypothécaire.
+- payer mes dettes de prêt
+- rembourser l'argent que j'emprunte
+- Je veux payer une partie de l'argent que tu m'as prêté
+- Payer une partie de l'argent que je dois.
+
+##intent:ask_for_document
+- puis-je obtenir une [note de débit](document_type)?
+- veuillez m'envoyer le [relevé bancaire](document_type) du mois dernier.
+- pouvez-vous renvoyer mon [relevé de carte de crédit](document_type)?
+- J'aimerais demander mon [relevé bancaire](document_type).
+- envoyer les [informations de mon compte](document_type) à mon adresse personnelle.
+- J'ai besoin d'un [relevé de paiement](document_type) lors de ma dernière transaction.
+- Envoyez un document.
+- Veuillez envoyer mon [relevé de carte de crédit](document_type)!
+- Je veux le [relevé de carte de crédit](document_type) du mois dernier.
+- Envoyez une [note de débit](document_type) de mon dernier transfert à domicile, s'il vous plaît.
+- Je demande le [relevé de carte de crédit](document_type) du mois dernier.
+- Veuillez m'envoyer une [note de débit](document_type)
+- Envoyez-moi mon [relevé bancaire](document_type à la maison
+- Je souhaite demander un document
+- Pourriez-vous envoyer mon [relevé de carte de crédit](document_type) à mon adresse personnelle, s'il vous plaît?
+- Pouvez-vous envoyer mon numéro [PIN](document_type)?
+- J'ai oublié mon numéro [PIN](document_type)!
+- J'ai besoin de mon [PIN](document_type) pour ma carte de crédit
+- envoyer le [PIN](document_type) pour ma carte [VISA](credit_card)
+- Envoyez mon [relevé de carte de crédit](document_type) des 2 derniers mois.
+- J'ai besoin du [relevé de carte de crédit](document_type) du mois dernier .
+- Je souhaite demander des [notes de débit](document_type) pour mes dernières transactions.
+- Envoyez-moi une [note de débit](document_type) pour la transaction vers Anne.
+- J'ai oublié le [PIN](document_type) de mon [VISA] (credit_card).
+- Envoyer [relevé bancaire](document_type)
+- Obtenez-moi mon [PIN](document_type) pour [5654721186587346] (credit_card_number)
+- Envoyez mon [code PIN](document_type) pour mes deux cartes à la maison, s'il vous plaît
+- J'ai besoin du [numero PIN](document_type) pour ma carte [0998529241182811](credit_card_number)
+- Je voudrais une version imprimée de mon [historique des dépenses](document_type), si c'est possible.
+- J'ai besoin d'une impression de mon [relevé bancaire](document_type), s'il vous plaît.
+- Pouvez-vous envoyer une version imprimée de mes [informations bancaires](document_type)?
+- Je veux mon [historique des dépenses](document_type) sous forme de texte, s'il vous plaît.
+- J'ai besoin de mes trois derniers [relevés de carte de crédit](document_type) pour mes fichiers!
+- J'ai perdu mon [code de la carte](document_type)
+- J'ai commandé une nouvelle carte mais vous ne m'avez pas encore envoyé le [code](document_type).
+- Je n'ai pas encore reçu mon [code PIN](document_type).
+- Je n'ai pas reçu le [relevé de carte](document_type) du mois dernier.
